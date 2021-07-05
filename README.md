@@ -1,4 +1,5 @@
 # Box0-L0
+![](https://github.com/dcarrel1/Box/blob/main/Box0-L0/reduced.png)
 |Halo ID|Virial Mass (Msun)|Virial Temperature (K)| x (Mpc/h) | y (Mpc/h)| z (Mpc/h)|
 |---|--------|-----|--------|--------|--------|
 |8|6.668e07|11630|0.568900|0.894683|0.275559|
@@ -13,8 +14,18 @@
 |613|8.276e07|13430|0.733574|0.891159|0.938642|
 
 # Box0-L1
+![](https://github.com/dcarrel1/Box/blob/main/Box0-L1/reduced.png)
 |Halo ID|Virial Mass (Msun)|Virial Temperature (K)| x (Mpc/h) | y (Mpc/h)| z (Mpc/h)|
 |---|--------|-----|--------|--------|--------|
 |9|9.104e07|14310|0.498701|0.521129|0.476461|
 |50|6.270e07|11160|0.498631|0.513432|0.455885|
+
+
+# Box0-L2
+![](https://github.com/dcarrel1/Box/blob/main/Box0-L2/reduced.png)
+|Halo ID|Virial Mass (Msun)|Virial Temperature (K)| x (Mpc/h) | y (Mpc/h)| z (Mpc/h)|
+|---|--------|-----|--------|--------|--------|
+|9|9.104e07|14310|0.498701|0.521129|0.476461|
+|50|6.270e07|11160|0.498631|0.513432|0.455885|
+
 
