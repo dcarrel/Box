@@ -1,0 +1,1295 @@
+Cycle 0  Time 0.81651206650085  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 1  Time 0.83488321959675  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 2  Time 0.85366771432467  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 3  Time 0.87287485061897  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 4  Time 0.89251413765389  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 5  Time 0.91259529855103  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 6  Time 0.93312827519279  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 7  Time 0.95412323314403  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 8  Time 0.97559056668441  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 9  Time 0.997540903954  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 10  Time 1.0199851122146  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 11  Time 1.0429343032296  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 12  Time 1.0663998387641  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 13  Time 1.0903933362101  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 14  Time 1.1149266743368  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 15  Time 1.1400119991719  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 16  Time 1.1656617300148  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 17  Time 1.1918885655813  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 18  Time 1.2187054902911  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 19  Time 1.2461257806956  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 20  Time 1.2741630120497  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 21  Time 1.3028310650317  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 22  Time 1.3321441326142  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 23  Time 1.3621167270897  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 24  Time 1.3927636872537  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 25  Time 1.4241001857501  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 26  Time 1.4561417365815  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 27  Time 1.4889042027877  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 28  Time 1.522403804298  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 29  Time 1.5566571259621  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 30  Time 1.5916811257572  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 31  Time 1.6274931431778  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 32  Time 1.6641109078204  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 33  Time 1.7015525481592  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 34  Time 1.7398366005179  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 35  Time 1.7789820182445  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 36  Time 1.8190081810915  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 37  Time 1.8599349048072  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 38  Time 1.9017824509424  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 39  Time 1.9445715368786  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 40  Time 1.9883233460798  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 41  Time 2.0330595385767  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 42  Time 2.078802261685  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 43  Time 2.1255741609753  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 44  Time 2.1733983914661  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 45  Time 2.222298629081  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 46  Time 2.2722990823688  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 47  Time 2.3234245044821  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 48  Time 2.3757002054254  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 49  Time 2.4291520645781  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 50  Time 2.4838065434992  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 51  Time 2.5396906990194  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 52  Time 2.5968321966278  MaxDepth 0  Grids 4  Memory(MB) 127.948  Ratio 2
+  Level 0  Grids 4  Memory(MB) 127.948  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 53  Time 2.6552593241582  MaxDepth 1  Grids 5  Memory(MB) 127.948  Ratio 1.9
+  Level 0  Grids 4  Memory(MB) 127.946  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 1  Memory(MB) 0.00250143  Coverage 8.58307e-06  Ratio 1.5  Flagged 0  Active 144
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 54  Time 2.7150010057844  MaxDepth 1  Grids 6  Memory(MB) 127.948  Ratio 1.75
+  Level 0  Grids 4  Memory(MB) 127.941  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 2  Memory(MB) 0.00750429  Coverage 2.14577e-05  Ratio 1.25  Flagged 0  Active 360
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 55  Time 2.7760868163285  MaxDepth 1  Grids 7  Memory(MB) 127.948  Ratio 1.78571
+  Level 0  Grids 4  Memory(MB) 127.932  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 3  Memory(MB) 0.0161068  Coverage 4.72069e-05  Ratio 1.5  Flagged 0  Active 792
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 56  Time 2.838546995891  MaxDepth 1  Grids 7  Memory(MB) 127.948  Ratio 1.78571
+  Level 0  Grids 4  Memory(MB) 127.932  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 3  Memory(MB) 0.0164728  Coverage 4.72069e-05  Ratio 1.5  Flagged 0  Active 792
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 57  Time 2.9024124648421  MaxDepth 1  Grids 7  Memory(MB) 127.948  Ratio 1.78571
+  Level 0  Grids 4  Memory(MB) 127.932  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 3  Memory(MB) 0.0166559  Coverage 4.72069e-05  Ratio 1.5  Flagged 0  Active 792
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 58  Time 2.9677148390595  MaxDepth 1  Grids 8  Memory(MB) 127.948  Ratio 1.6875
+  Level 0  Grids 4  Memory(MB) 127.926  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 4  Memory(MB) 0.0221468  Coverage 6.00815e-05  Ratio 1.375  Flagged 0  Active 1008
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 59  Time 3.0344864455886  MaxDepth 1  Grids 8  Memory(MB) 127.948  Ratio 1.5625
+  Level 0  Grids 4  Memory(MB) 127.918  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 4  Memory(MB) 0.0301392  Coverage 8.44002e-05  Ratio 1.125  Flagged 0  Active 1416
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 60  Time 3.1027603386339  MaxDepth 1  Grids 9  Memory(MB) 127.948  Ratio 1.53704
+  Level 0  Grids 4  Memory(MB) 127.908  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 5  Memory(MB) 0.0400229  Coverage 0.00011301  Ratio 1.16667  Flagged 0  Active 1896
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 61  Time 3.1725703159075  MaxDepth 1  Grids 12  Memory(MB) 127.948  Ratio 1.40278
+  Level 0  Grids 4  Memory(MB) 127.896  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 8  Memory(MB) 0.052286  Coverage 0.000151634  Ratio 1.10417  Flagged 0  Active 2544
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 62  Time 3.2439509353435  MaxDepth 1  Grids 12  Memory(MB) 127.948  Ratio 1.40278
+  Level 0  Grids 4  Memory(MB) 127.888  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 8  Memory(MB) 0.0597903  Coverage 0.000169277  Ratio 1.10417  Flagged 0  Active 2840
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 63  Time 3.3169375321885  MaxDepth 1  Grids 14  Memory(MB) 127.948  Ratio 1.36905
+  Level 0  Grids 4  Memory(MB) 127.877  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 10  Memory(MB) 0.0707722  Coverage 0.000199318  Ratio 1.11667  Flagged 0  Active 3344
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 64  Time 3.391566236475  MaxDepth 1  Grids 17  Memory(MB) 127.948  Ratio 1.40196
+  Level 0  Grids 4  Memory(MB) 127.841  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 13  Memory(MB) 0.106951  Coverage 0.000313282  Ratio 1.21795  Flagged 0  Active 5256
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 65  Time 3.467873990887  MaxDepth 1  Grids 19  Memory(MB) 127.948  Ratio 1.32456
+  Level 0  Grids 4  Memory(MB) 127.827  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 15  Memory(MB) 0.121594  Coverage 0.000356197  Ratio 1.14444  Flagged 0  Active 5976
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 66  Time 3.5458985690266  MaxDepth 1  Grids 22  Memory(MB) 127.948  Ratio 1.30682
+  Level 0  Grids 4  Memory(MB) 127.806  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 18  Memory(MB) 0.14191  Coverage 0.000410557  Ratio 1.15278  Flagged 0  Active 6888
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 67  Time 3.6256785940901  MaxDepth 1  Grids 27  Memory(MB) 127.948  Ratio 1.30556
+  Level 0  Grids 4  Memory(MB) 127.764  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 23  Memory(MB) 0.183825  Coverage 0.000545502  Ratio 1.18478  Flagged 0  Active 9152
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 68  Time 3.7072535579629  MaxDepth 1  Grids 29  Memory(MB) 127.948  Ratio 1.37644
+  Level 0  Grids 4  Memory(MB) 127.721  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 25  Memory(MB) 0.227081  Coverage 0.00069046  Ratio 1.27667  Flagged 0  Active 11584
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 69  Time 3.7906638407434  MaxDepth 1  Grids 33  Memory(MB) 127.948  Ratio 1.31818
+  Level 0  Grids 4  Memory(MB) 127.676  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 29  Memory(MB) 0.272473  Coverage 0.000841618  Ratio 1.22414  Flagged 0  Active 14120
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 70  Time 3.8759507307146  MaxDepth 1  Grids 34  Memory(MB) 127.948  Ratio 1.36912
+  Level 0  Grids 4  Memory(MB) 127.618  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 30  Memory(MB) 0.329884  Coverage 0.00103092  Ratio 1.285  Flagged 0  Active 17296
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 71  Time 3.9631564448095  MaxDepth 1  Grids 38  Memory(MB) 127.948  Ratio 1.37105
+  Level 0  Grids 4  Memory(MB) 127.551  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 34  Memory(MB) 0.397666  Coverage 0.00125933  Ratio 1.29706  Flagged 0  Active 21128
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 72  Time 4.0523241493442  MaxDepth 1  Grids 42  Memory(MB) 127.948  Ratio 1.33929
+  Level 0  Grids 4  Memory(MB) 127.462  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 38  Memory(MB) 0.485827  Coverage 0.00154257  Ratio 1.26974  Flagged 0  Active 25880
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 73  Time 4.143497981418  MaxDepth 1  Grids 46  Memory(MB) 127.948  Ratio 1.34664
+  Level 0  Grids 4  Memory(MB) 127.373  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 42  Memory(MB) 0.575207  Coverage 0.00180292  Ratio 1.28441  Flagged 0  Active 30248
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 74  Time 4.2367230707256  MaxDepth 1  Grids 53  Memory(MB) 127.948  Ratio 1.35094
+  Level 0  Grids 4  Memory(MB) 127.247  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 49  Memory(MB) 0.701438  Coverage 0.00224209  Ratio 1.29796  Flagged 0  Active 37616
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 75  Time 4.3320455618569  MaxDepth 1  Grids 54  Memory(MB) 127.948  Ratio 1.38627
+  Level 0  Grids 4  Memory(MB) 127.068  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 50  Memory(MB) 0.879954  Coverage 0.00288153  Ratio 1.33717  Flagged 0  Active 48344
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 76  Time 4.4295126370978  MaxDepth 1  Grids 59  Memory(MB) 127.948  Ratio 1.51709
+  Level 0  Grids 4  Memory(MB) 127.027  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 55  Memory(MB) 0.921685  Coverage 0.00296879  Ratio 1.48197  Flagged 0  Active 49808
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 77  Time 4.52917253974  MaxDepth 1  Grids 64  Memory(MB) 127.948  Ratio 1.50799
+  Level 0  Grids 4  Memory(MB) 126.897  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 60  Memory(MB) 1.05127  Coverage 0.00339222  Ratio 1.47519  Flagged 0  Active 56912
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 78  Time 4.6310745979139  MaxDepth 1  Grids 78  Memory(MB) 127.948  Ratio 1.46254
+  Level 0  Grids 4  Memory(MB) 126.736  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 74  Memory(MB) 1.2124  Coverage 0.00390911  Ratio 1.43348  Flagged 0  Active 65584
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 79  Time 4.7305997551349  MaxDepth 1  Grids 81  Memory(MB) 127.948  Ratio 1.46639
+  Level 0  Grids 4  Memory(MB) 126.622  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 77  Memory(MB) 1.32612  Coverage 0.00424194  Ratio 1.43867  Flagged 0  Active 71168
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 80  Time 4.8370335167126  MaxDepth 1  Grids 83  Memory(MB) 127.948  Ratio 1.48252
+  Level 0  Grids 4  Memory(MB) 126.508  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 79  Memory(MB) 1.44015  Coverage 0.00464106  Ratio 1.45632  Flagged 0  Active 77864
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 81  Time 4.9458618105192  MaxDepth 1  Grids 92  Memory(MB) 127.948  Ratio 1.44782
+  Level 0  Grids 4  Memory(MB) 126.341  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 88  Memory(MB) 1.60702  Coverage 0.00521517  Ratio 1.42272  Flagged 0  Active 87496
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 82  Time 5.05713850008  MaxDepth 1  Grids 104  Memory(MB) 127.948  Ratio 1.49713
+  Level 0  Grids 4  Memory(MB) 126.145  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 100  Memory(MB) 1.80353  Coverage 0.00584078  Ratio 1.47702  Flagged 0  Active 97992
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 83  Time 5.1709186599708  MaxDepth 1  Grids 115  Memory(MB) 127.948  Ratio 1.47399
+  Level 0  Grids 4  Memory(MB) 125.823  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 111  Memory(MB) 2.12481  Coverage 0.00697374  Ratio 1.45503  Flagged 0  Active 117000
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 84  Time 5.2872586030058  MaxDepth 1  Grids 125  Memory(MB) 127.948  Ratio 1.4381
+  Level 0  Grids 4  Memory(MB) 125.548  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 121  Memory(MB) 2.40027  Coverage 0.00791359  Ratio 1.41952  Flagged 0  Active 132768
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 85  Time 5.4062159081951  MaxDepth 1  Grids 144  Memory(MB) 127.948  Ratio 1.5447
+  Level 0  Grids 4  Memory(MB) 125.32  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 140  Memory(MB) 2.62827  Coverage 0.0085783  Ratio 1.5317  Flagged 0  Active 143920
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 86  Time 5.5278494489366  MaxDepth 1  Grids 160  Memory(MB) 127.948  Ratio 1.52831
+  Level 0  Grids 4  Memory(MB) 125.002  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 156  Memory(MB) 2.94626  Coverage 0.00963449  Ratio 1.51621  Flagged 0  Active 161640
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 87  Time 5.6522194220766  MaxDepth 1  Grids 158  Memory(MB) 127.948  Ratio 1.53947
+  Level 0  Grids 4  Memory(MB) 124.667  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 154  Memory(MB) 3.28084  Coverage 0.0108533  Ratio 1.5275  Flagged 0  Active 182088
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 88  Time 5.7793873776718  MaxDepth 1  Grids 170  Memory(MB) 127.948  Ratio 1.63224
+  Level 0  Grids 4  Memory(MB) 124.193  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 166  Memory(MB) 3.7555  Coverage 0.0125718  Ratio 1.62338  Flagged 0  Active 210920
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 89  Time 5.9094162493531  MaxDepth 1  Grids 204  Memory(MB) 127.948  Ratio 1.68012
+  Level 0  Grids 4  Memory(MB) 123.897  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 200  Memory(MB) 4.05165  Coverage 0.0134101  Ratio 1.67372  Flagged 0  Active 224984
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 90  Time 6.0423703853676  MaxDepth 1  Grids 237  Memory(MB) 127.948  Ratio 1.67569
+  Level 0  Grids 4  Memory(MB) 123.438  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 233  Memory(MB) 4.51057  Coverage 0.0150223  Ratio 1.67012  Flagged 0  Active 252032
+  Level 2  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 91  Time 6.1783155803127  MaxDepth 2  Grids 238  Memory(MB) 127.948  Ratio 1.72113
+  Level 0  Grids 4  Memory(MB) 122.972  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 233  Memory(MB) 4.96619  Coverage 0.0166602  Ratio 1.71729  Flagged 0  Active 279512
+  Level 2  Grids 1  Memory(MB) 0.00970067  Coverage 7.15256e-06  Ratio 1.5  Flagged 0  Active 960
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 92  Time 6.3173191075769  MaxDepth 2  Grids 253  Memory(MB) 127.948  Ratio 1.70306
+  Level 0  Grids 4  Memory(MB) 122.483  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 248  Memory(MB) 5.45373  Coverage 0.0184393  Ratio 1.69909  Flagged 0  Active 309360
+  Level 2  Grids 1  Memory(MB) 0.011775  Coverage 8.58307e-06  Ratio 1.5  Flagged 0  Active 1152
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 93  Time 6.4594497525049  MaxDepth 2  Grids 275  Memory(MB) 127.948  Ratio 1.6904
+  Level 0  Grids 4  Memory(MB) 122.03  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 270  Memory(MB) 5.90612  Coverage 0.0199609  Ratio 1.68652  Flagged 0  Active 334888
+  Level 2  Grids 1  Memory(MB) 0.0121411  Coverage 8.58307e-06  Ratio 1.5  Flagged 0  Active 1152
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 94  Time 6.6047778463005  MaxDepth 2  Grids 296  Memory(MB) 127.948  Ratio 1.66779
+  Level 0  Grids 4  Memory(MB) 121.408  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 288  Memory(MB) 6.52599  Coverage 0.0222836  Ratio 1.66204  Flagged 0  Active 373856
+  Level 2  Grids 4  Memory(MB) 0.0146425  Coverage 8.22544e-06  Ratio 1.75  Flagged 0  Active 1104
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 95  Time 6.7533753006842  MaxDepth 2  Grids 296  Memory(MB) 127.948  Ratio 1.64288
+  Level 0  Grids 4  Memory(MB) 120.696  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 287  Memory(MB) 7.22736  Coverage 0.0248909  Ratio 1.6462  Flagged 0  Active 417600
+  Level 2  Grids 5  Memory(MB) 0.0244042  Coverage 1.55568e-05  Ratio 1.16667  Flagged 0  Active 2088
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 96  Time 6.905315643323  MaxDepth 2  Grids 322  Memory(MB) 127.948  Ratio 1.66756
+  Level 0  Grids 4  Memory(MB) 120.095  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 309  Memory(MB) 7.81392  Coverage 0.0269113  Ratio 1.67703  Flagged 0  Active 451496
+  Level 2  Grids 9  Memory(MB) 0.0389857  Coverage 2.44975e-05  Ratio 1.19444  Flagged 0  Active 3288
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 97  Time 7.0606740540471  MaxDepth 2  Grids 359  Memory(MB) 127.948  Ratio 1.73774
+  Level 0  Grids 4  Memory(MB) 119.203  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 345  Memory(MB) 8.70223  Coverage 0.030313  Ratio 1.75077  Flagged 0  Active 508568
+  Level 2  Grids 10  Memory(MB) 0.0435005  Coverage 2.5928e-05  Ratio 1.18333  Flagged 0  Active 3480
+  Level 3  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 98  Time 7.2195274018726  MaxDepth 3  Grids 395  Memory(MB) 127.948  Ratio 1.81072
+  Level 0  Grids 4  Memory(MB) 118.764  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 380  Memory(MB) 9.1268  Coverage 0.0315442  Ratio 1.82386  Flagged 0  Active 529224
+  Level 2  Grids 10  Memory(MB) 0.0557636  Coverage 3.73125e-05  Ratio 1.31667  Flagged 0  Active 5008
+  Level 3  Grids 1  Memory(MB) 0.00183031  Coverage 2.01166e-07  Ratio 1  Flagged 0  Active 216
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 99  Time 7.3819542833831  MaxDepth 3  Grids 420  Memory(MB) 127.948  Ratio 1.79855
+  Level 0  Grids 4  Memory(MB) 117.982  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 403  Memory(MB) 9.88785  Coverage 0.0344577  Ratio 1.80229  Flagged 0  Active 578104
+  Level 2  Grids 12  Memory(MB) 0.0719924  Coverage 5.4121e-05  Ratio 1.63056  Flagged 0  Active 7264
+  Level 3  Grids 1  Memory(MB) 0.00604004  Coverage 1.07288e-06  Ratio 1.5  Flagged 0  Active 1152
+  Level 4  Grids 0  Memory(MB) 0  Coverage 0  Ratio 0  Flagged 0  Active 0
+
+Cycle 100  Time 7.5480350604634  MaxDepth 4  Grids 457  Memory(MB) 127.948  Ratio 1.79791
+  Level 0  Grids 4  Memory(MB) 117.321  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 434  Memory(MB) 10.5224  Coverage 0.0367818  Ratio 1.81485  Flagged 0  Active 617096
+  Level 2  Grids 17  Memory(MB) 0.0984709  Coverage 7.08103e-05  Ratio 1.35294  Flagged 0  Active 9504
+  Level 3  Grids 1  Memory(MB) 0.00500286  Coverage 8.9407e-07  Ratio 1.5  Flagged 0  Active 960
+  Level 4  Grids 1  Memory(MB) 0.0011592  Coverage 1.67638e-08  Ratio 1.5  Flagged 0  Active 144
+
+Cycle 101  Time 7.7178519002334  MaxDepth 4  Grids 482  Memory(MB) 127.948  Ratio 1.83999
+  Level 0  Grids 4  Memory(MB) 116.49  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 456  Memory(MB) 11.3336  Coverage 0.0397816  Ratio 1.86003  Flagged 0  Active 667424
+  Level 2  Grids 19  Memory(MB) 0.117628  Coverage 8.37445e-05  Ratio 1.40526  Flagged 0  Active 11240
+  Level 3  Grids 1  Memory(MB) 0.0046368  Coverage 8.9407e-07  Ratio 1.5  Flagged 0  Active 960
+  Level 4  Grids 2  Memory(MB) 0.00225739  Coverage 4.19095e-08  Ratio 1.25  Flagged 0  Active 360
+
+Cycle 102  Time 7.8914888155035  MaxDepth 4  Grids 498  Memory(MB) 127.948  Ratio 1.77422
+  Level 0  Grids 4  Memory(MB) 115.69  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 466  Memory(MB) 12.0954  Coverage 0.0427694  Ratio 1.79152  Flagged 0  Active 717552
+  Level 2  Grids 23  Memory(MB) 0.153319  Coverage 0.000113964  Ratio 1.50217  Flagged 0  Active 15296
+  Level 3  Grids 3  Memory(MB) 0.00658913  Coverage 1.2964e-06  Ratio 1.16667  Flagged 0  Active 1392
+  Level 4  Grids 2  Memory(MB) 0.00311153  Coverage 6.70552e-08  Ratio 1.33333  Flagged 0  Active 576
+
+Cycle 103  Time 8.0690317060921  MaxDepth 4  Grids 569  Memory(MB) 127.948  Ratio 1.87905
+  Level 0  Grids 4  Memory(MB) 114.669  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 528  Memory(MB) 13.076  Coverage 0.0466371  Ratio 1.90258  Flagged 0  Active 782440
+  Level 2  Grids 31  Memory(MB) 0.189682  Coverage 0.000148654  Ratio 1.59516  Flagged 0  Active 19952
+  Level 3  Grids 4  Memory(MB) 0.0100667  Coverage 1.74344e-06  Ratio 1.20833  Flagged 0  Active 1872
+  Level 4  Grids 2  Memory(MB) 0.00329457  Coverage 5.86733e-08  Ratio 1.16667  Flagged 0  Active 504
+
+Cycle 104  Time 8.2505684010585  MaxDepth 4  Grids 586  Memory(MB) 127.948  Ratio 1.8628
+  Level 0  Grids 4  Memory(MB) 113.678  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 542  Memory(MB) 14.0284  Coverage 0.0506115  Ratio 1.8885  Flagged 0  Active 849120
+  Level 2  Grids 35  Memory(MB) 0.224763  Coverage 0.000171244  Ratio 1.50143  Flagged 0  Active 22984
+  Level 3  Grids 4  Memory(MB) 0.0120191  Coverage 2.69711e-06  Ratio 1.43333  Flagged 0  Active 2896
+  Level 4  Grids 1  Memory(MB) 0.00536892  Coverage 1.82539e-07  Ratio 1.75  Flagged 0  Active 1568
+
+Cycle 105  Time 8.4361887018696  MaxDepth 4  Grids 596  Memory(MB) 127.948  Ratio 1.87205
+  Level 0  Grids 4  Memory(MB) 112.631  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 545  Memory(MB) 15.0459  Coverage 0.0547528  Ratio 1.89203  Flagged 0  Active 918600
+  Level 2  Grids 39  Memory(MB) 0.250936  Coverage 0.000184238  Ratio 1.67521  Flagged 0  Active 24728
+  Level 3  Grids 7  Memory(MB) 0.0145815  Coverage 2.33948e-06  Ratio 1.39286  Flagged 0  Active 2512
+  Level 4  Grids 1  Memory(MB) 0.00549094  Coverage 1.3411e-07  Ratio 1.5  Flagged 0  Active 1152
+
+Cycle 106  Time 8.4843281330309  MaxDepth 4  Grids 626  Memory(MB) 127.948  Ratio 1.88566
+  Level 0  Grids 4  Memory(MB) 112.576  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 574  Memory(MB) 15.0741  Coverage 0.0545597  Ratio 1.90869  Flagged 0  Active 915360
+  Level 2  Grids 40  Memory(MB) 0.276683  Coverage 0.000208497  Ratio 1.64375  Flagged 0  Active 27984
+  Level 3  Grids 7  Memory(MB) 0.0162288  Coverage 2.75671e-06  Ratio 1.36905  Flagged 0  Active 2960
+  Level 4  Grids 1  Memory(MB) 0.00567398  Coverage 1.3411e-07  Ratio 1.5  Flagged 0  Active 1152
+
+Cycle 107  Time 8.675206719328  MaxDepth 4  Grids 636  Memory(MB) 127.948  Ratio 1.85307
+  Level 0  Grids 4  Memory(MB) 111.748  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 581  Memory(MB) 15.8305  Coverage 0.0574331  Ratio 1.8805  Flagged 0  Active 963568
+  Level 2  Grids 41  Memory(MB) 0.344404  Coverage 0.000275671  Ratio 1.54228  Flagged 0  Active 37000
+  Level 3  Grids 8  Memory(MB) 0.0170219  Coverage 2.71946e-06  Ratio 1.48958  Flagged 0  Active 2920
+  Level 4  Grids 2  Memory(MB) 0.00817541  Coverage 1.45286e-07  Ratio 1.41667  Flagged 0  Active 1248
+
+Cycle 108  Time 8.8703789552133  MaxDepth 4  Grids 672  Memory(MB) 127.948  Ratio 1.88599
+  Level 0  Grids 4  Memory(MB) 110.946  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 609  Memory(MB) 16.5842  Coverage 0.0598569  Ratio 1.91966  Flagged 0  Active 1004232
+  Level 2  Grids 48  Memory(MB) 0.38278  Coverage 0.000310183  Ratio 1.55486  Flagged 0  Active 41632
+  Level 3  Grids 8  Memory(MB) 0.0248923  Coverage 5.10365e-06  Ratio 1.5125  Flagged 0  Active 5480
+  Level 4  Grids 3  Memory(MB) 0.0103108  Coverage 1.62981e-07  Ratio 1.19444  Flagged 0  Active 1400
+
+Cycle 109  Time 9.0699413745622  MaxDepth 4  Grids 689  Memory(MB) 127.948  Ratio 1.84599
+  Level 0  Grids 4  Memory(MB) 109.791  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 622  Memory(MB) 17.6774  Coverage 0.0646052  Ratio 1.87399  Flagged 0  Active 1083896
+  Level 2  Grids 50  Memory(MB) 0.432991  Coverage 0.00036639  Ratio 1.57538  Flagged 0  Active 49176
+  Level 3  Grids 10  Memory(MB) 0.0352031  Coverage 6.54161e-06  Ratio 1.59167  Flagged 0  Active 7024
+  Level 4  Grids 3  Memory(MB) 0.011409  Coverage 1.62981e-07  Ratio 1.19444  Flagged 0  Active 1400
+
+Cycle 110  Time 9.2739926793584  MaxDepth 4  Grids 765  Memory(MB) 127.948  Ratio 1.98206
+  Level 0  Grids 4  Memory(MB) 108.973  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 686  Memory(MB) 18.4249  Coverage 0.0674624  Ratio 2.02237  Flagged 0  Active 1131832
+  Level 2  Grids 58  Memory(MB) 0.489731  Coverage 0.000409722  Ratio 1.64511  Flagged 0  Active 54992
+  Level 3  Grids 14  Memory(MB) 0.0491745  Coverage 8.14348e-06  Ratio 1.56667  Flagged 0  Active 8744
+  Level 4  Grids 3  Memory(MB) 0.011348  Coverage 1.44355e-07  Ratio 1.19444  Flagged 0  Active 1240
+
+Cycle 111  Time 9.4826337862058  MaxDepth 4  Grids 680  Memory(MB) 127.948  Ratio 1.93873
+  Level 0  Grids 4  Memory(MB) 106.277  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 589  Memory(MB) 21.0602  Coverage 0.080503  Ratio 1.98165  Flagged 0  Active 1350616
+  Level 2  Grids 67  Memory(MB) 0.530242  Coverage 0.000440538  Ratio 1.63397  Flagged 0  Active 59128
+  Level 3  Grids 16  Memory(MB) 0.0672946  Coverage 1.16825e-05  Ratio 1.77604  Flagged 0  Active 12544
+  Level 4  Grids 4  Memory(MB) 0.0133003  Coverage 1.73226e-07  Ratio 1.3125  Flagged 0  Active 1488
+
+Cycle 112  Time 9.6959678766021  MaxDepth 4  Grids 698  Memory(MB) 127.948  Ratio 1.83121
+  Level 0  Grids 4  Memory(MB) 105.105  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 595  Memory(MB) 22.1348  Coverage 0.0851355  Ratio 1.87414  Flagged 0  Active 1428336
+  Level 2  Grids 71  Memory(MB) 0.606993  Coverage 0.00051266  Ratio 1.56979  Flagged 0  Active 68808
+  Level 3  Grids 23  Memory(MB) 0.0853537  Coverage 1.3724e-05  Ratio 1.57029  Flagged 0  Active 14736
+  Level 4  Grids 5  Memory(MB) 0.0158627  Coverage 2.15136e-07  Ratio 1.5  Flagged 0  Active 1848
+
+Cycle 113  Time 9.9141004475717  MaxDepth 4  Grids 766  Memory(MB) 127.948  Ratio 1.8561
+  Level 0  Grids 4  Memory(MB) 103.67  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 635  Memory(MB) 23.4727  Coverage 0.09163  Ratio 1.90306  Flagged 0  Active 1537296
+  Level 2  Grids 86  Memory(MB) 0.677643  Coverage 0.000576913  Ratio 1.66044  Flagged 0  Active 77432
+  Level 3  Grids 31  Memory(MB) 0.107439  Coverage 1.72555e-05  Ratio 1.52258  Flagged 0  Active 18528
+  Level 4  Grids 10  Memory(MB) 0.0200724  Coverage 2.44938e-07  Ratio 1.53333  Flagged 0  Active 2104
+
+Cycle 114  Time 10.137139363349  MaxDepth 4  Grids 791  Memory(MB) 127.948  Ratio 1.88389
+  Level 0  Grids 4  Memory(MB) 102.804  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 648  Memory(MB) 24.2042  Coverage 0.0944943  Ratio 1.95512  Flagged 0  Active 1585352
+  Level 2  Grids 96  Memory(MB) 0.792648  Coverage 0.000674069  Ratio 1.59692  Flagged 0  Active 90472
+  Level 3  Grids 34  Memory(MB) 0.119031  Coverage 1.77771e-05  Ratio 1.46373  Flagged 0  Active 19088
+  Level 4  Grids 9  Memory(MB) 0.0286139  Coverage 4.05125e-07  Ratio 1.35185  Flagged 0  Active 3480
+
+Cycle 115  Time 10.365194908193  MaxDepth 4  Grids 823  Memory(MB) 127.948  Ratio 1.88578
+  Level 0  Grids 4  Memory(MB) 101.785  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 666  Memory(MB) 25.0546  Coverage 0.098074  Ratio 1.97478  Flagged 0  Active 1645408
+  Level 2  Grids 105  Memory(MB) 0.937731  Coverage 0.000824273  Ratio 1.58358  Flagged 0  Active 110632
+  Level 3  Grids 36  Memory(MB) 0.13343  Coverage 2.11671e-05  Ratio 1.34213  Flagged 0  Active 22728
+  Level 4  Grids 12  Memory(MB) 0.0377045  Coverage 5.51343e-07  Ratio 1.18333  Flagged 0  Active 4736
+
+Cycle 116  Time 10.598379840365  MaxDepth 4  Grids 870  Memory(MB) 127.948  Ratio 1.90091
+  Level 0  Grids 4  Memory(MB) 100.488  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 690  Memory(MB) 26.226  Coverage 0.10372  Ratio 1.98417  Flagged 0  Active 1740136
+  Level 2  Grids 121  Memory(MB) 1.03205  Coverage 0.000903547  Ratio 1.63293  Flagged 0  Active 121272
+  Level 3  Grids 42  Memory(MB) 0.161434  Coverage 2.53245e-05  Ratio 1.5131  Flagged 0  Active 27192
+  Level 4  Grids 13  Memory(MB) 0.0410601  Coverage 5.56e-07  Ratio 1.19872  Flagged 0  Active 4776
+
+Cycle 117  Time 10.816433869723  MaxDepth 4  Grids 889  Memory(MB) 127.948  Ratio 1.87225
+  Level 0  Grids 4  Memory(MB) 99.3342  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 694  Memory(MB) 27.2347  Coverage 0.108105  Ratio 1.97238  Flagged 0  Active 1813704
+  Level 2  Grids 129  Memory(MB) 1.15255  Coverage 0.00101537  Ratio 1.57817  Flagged 0  Active 136280
+  Level 3  Grids 45  Memory(MB) 0.172355  Coverage 2.70084e-05  Ratio 1.42  Flagged 0  Active 29000
+  Level 4  Grids 17  Memory(MB) 0.0544824  Coverage 8.3819e-07  Ratio 1.18333  Flagged 0  Active 7200
+
+Cycle 118  Time 11.059767758611  MaxDepth 4  Grids 934  Memory(MB) 127.948  Ratio 1.91926
+  Level 0  Grids 4  Memory(MB) 98.4409  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 733  Memory(MB) 27.9548  Coverage 0.111104  Ratio 2.01504  Flagged 0  Active 1864016
+  Level 2  Grids 136  Memory(MB) 1.27634  Coverage 0.0011555  Ratio 1.58135  Flagged 0  Active 155088
+  Level 3  Grids 44  Memory(MB) 0.21433  Coverage 3.77893e-05  Ratio 1.62311  Flagged 0  Active 40576
+  Level 4  Grids 17  Memory(MB) 0.0618646  Coverage 8.74512e-07  Ratio 1.2402  Flagged 0  Active 7512
+
+Cycle 119  Time 11.308574412753  MaxDepth 4  Grids 1015  Memory(MB) 127.948  Ratio 1.89611
+  Level 0  Grids 4  Memory(MB) 97.2152  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 772  Memory(MB) 29.0393  Coverage 0.116144  Ratio 2.00836  Flagged 0  Active 1948576
+  Level 2  Grids 154  Memory(MB) 1.37036  Coverage 0.00121111  Ratio 1.60289  Flagged 0  Active 162552
+  Level 3  Grids 61  Memory(MB) 0.240625  Coverage 4.1537e-05  Ratio 1.48856  Flagged 0  Active 44600
+  Level 4  Grids 24  Memory(MB) 0.0827302  Coverage 1.17905e-06  Ratio 1.18542  Flagged 0  Active 10128
+
+Cycle 120  Time 11.562976819304  MaxDepth 4  Grids 1079  Memory(MB) 127.948  Ratio 1.87573
+  Level 0  Grids 4  Memory(MB) 96.1659  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 790  Memory(MB) 29.8591  Coverage 0.119833  Ratio 1.9976  Flagged 0  Active 2010456
+  Level 2  Grids 177  Memory(MB) 1.54991  Coverage 0.001405  Ratio 1.60886  Flagged 0  Active 188576
+  Level 3  Grids 78  Memory(MB) 0.270887  Coverage 4.37871e-05  Ratio 1.4547  Flagged 0  Active 47016
+  Level 4  Grids 30  Memory(MB) 0.102437  Coverage 1.42585e-06  Ratio 1.31889  Flagged 0  Active 12248
+
+Cycle 121  Time 11.823100722374  MaxDepth 4  Grids 1122  Memory(MB) 127.948  Ratio 1.8786
+  Level 0  Grids 4  Memory(MB) 94.6118  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 813  Memory(MB) 31.2055  Coverage 0.12686  Ratio 2.00682  Flagged 0  Active 2128360
+  Level 2  Grids 193  Memory(MB) 1.69371  Coverage 0.001562  Ratio 1.60551  Flagged 0  Active 209648
+  Level 3  Grids 77  Memory(MB) 0.316766  Coverage 5.43892e-05  Ratio 1.49156  Flagged 0  Active 58400
+  Level 4  Grids 35  Memory(MB) 0.120435  Coverage 1.71084e-06  Ratio 1.24381  Flagged 0  Active 14696
+
+Cycle 122  Time 12.08907468435  MaxDepth 4  Grids 1136  Memory(MB) 127.948  Ratio 1.86101
+  Level 0  Grids 4  Memory(MB) 93.3577  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 807  Memory(MB) 32.1723  Coverage 0.132937  Ratio 1.99335  Flagged 0  Active 2230312
+  Level 2  Grids 203  Memory(MB) 1.92055  Coverage 0.00181293  Ratio 1.5799  Flagged 0  Active 243328
+  Level 3  Grids 82  Memory(MB) 0.353556  Coverage 6.34193e-05  Ratio 1.53386  Flagged 0  Active 68096
+  Level 4  Grids 40  Memory(MB) 0.144168  Coverage 2.13273e-06  Ratio 1.27458  Flagged 0  Active 18320
+
+Cycle 123  Time 12.361030148555  MaxDepth 4  Grids 1178  Memory(MB) 127.948  Ratio 1.85608
+  Level 0  Grids 4  Memory(MB) 91.8952  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 803  Memory(MB) 33.4091  Coverage 0.138615  Ratio 1.99531  Flagged 0  Active 2325568
+  Level 2  Grids 230  Memory(MB) 2.08631  Coverage 0.00197119  Ratio 1.61804  Flagged 0  Active 264568
+  Level 3  Grids 97  Memory(MB) 0.400534  Coverage 6.9648e-05  Ratio 1.53754  Flagged 0  Active 74784
+  Level 4  Grids 44  Memory(MB) 0.157163  Coverage 2.25659e-06  Ratio 1.24848  Flagged 0  Active 19384
+
+Cycle 124  Time 12.639101503259  MaxDepth 4  Grids 1252  Memory(MB) 127.948  Ratio 1.84382
+  Level 0  Grids 4  Memory(MB) 90.6027  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 838  Memory(MB) 34.4561  Coverage 0.143463  Ratio 1.98772  Flagged 0  Active 2406912
+  Level 2  Grids 254  Memory(MB) 2.25428  Coverage 0.00215077  Ratio 1.61604  Flagged 0  Active 288672
+  Level 3  Grids 108  Memory(MB) 0.451783  Coverage 7.79852e-05  Ratio 1.50579  Flagged 0  Active 83736
+  Level 4  Grids 48  Memory(MB) 0.183398  Coverage 2.70456e-06  Ratio 1.28438  Flagged 0  Active 23232
+
+Cycle 125  Time 12.923426149905  MaxDepth 4  Grids 1323  Memory(MB) 127.948  Ratio 1.82746
+  Level 0  Grids 4  Memory(MB) 89.5408  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 851  Memory(MB) 35.2269  Coverage 0.147161  Ratio 1.95316  Flagged 0  Active 2468944
+  Level 2  Grids 293  Memory(MB) 2.48441  Coverage 0.00233614  Ratio 1.6508  Flagged 0  Active 313552
+  Level 3  Grids 120  Memory(MB) 0.482654  Coverage 8.1569e-05  Ratio 1.60778  Flagged 0  Active 87584
+  Level 4  Grids 55  Memory(MB) 0.213476  Coverage 3.32948e-06  Ratio 1.2903  Flagged 0  Active 28600
+
+Cycle 126  Time 13.214144564963  MaxDepth 4  Grids 1382  Memory(MB) 127.948  Ratio 1.82315
+  Level 0  Grids 4  Memory(MB) 88.1352  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 896  Memory(MB) 36.3439  Coverage 0.153353  Ratio 1.97673  Flagged 0  Active 2572832
+  Level 2  Grids 291  Memory(MB) 2.67281  Coverage 0.00254631  Ratio 1.62942  Flagged 0  Active 341760
+  Level 3  Grids 127  Memory(MB) 0.541773  Coverage 9.54121e-05  Ratio 1.44786  Flagged 0  Active 102448
+  Level 4  Grids 64  Memory(MB) 0.254597  Coverage 3.97116e-06  Ratio 1.28765  Flagged 0  Active 34112
+
+Cycle 127  Time 13.511400370132  MaxDepth 4  Grids 1230  Memory(MB) 127.948  Ratio 1.85924
+  Level 0  Grids 4  Memory(MB) 83.6386  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 694  Memory(MB) 40.4776  Coverage 0.18164  Ratio 2.05224  Flagged 0  Active 3047416
+  Level 2  Grids 317  Memory(MB) 2.93912  Coverage 0.00286102  Ratio 1.72985  Flagged 0  Active 384000
+  Level 3  Grids 144  Memory(MB) 0.602173  Coverage 0.00010439  Ratio 1.49086  Flagged 0  Active 112088
+  Level 4  Grids 71  Memory(MB) 0.290776  Coverage 4.38094e-06  Ratio 1.28967  Flagged 0  Active 37632
+
+Cycle 128  Time 13.815340402286  MaxDepth 4  Grids 1311  Memory(MB) 127.948  Ratio 1.80483
+  Level 0  Grids 4  Memory(MB) 82.4521  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 716  Memory(MB) 41.3664  Coverage 0.186388  Ratio 2.01239  Flagged 0  Active 3127080
+  Level 2  Grids 353  Memory(MB) 3.12813  Coverage 0.00302541  Ratio 1.65216  Flagged 0  Active 406064
+  Level 3  Grids 161  Memory(MB) 0.683989  Coverage 0.00011301  Ratio 1.44919  Flagged 0  Active 121344
+  Level 4  Grids 77  Memory(MB) 0.317621  Coverage 4.73298e-06  Ratio 1.30823  Flagged 0  Active 40656
+
+Cycle 129  Time 14.12611478469  MaxDepth 4  Grids 1372  Memory(MB) 127.948  Ratio 1.87964
+  Level 0  Grids 4  Memory(MB) 80.6531  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 733  Memory(MB) 42.8028  Coverage 0.196115  Ratio 2.11623  Flagged 0  Active 3290272
+  Level 2  Grids 378  Memory(MB) 3.32574  Coverage 0.00328827  Ratio 1.71713  Flagged 0  Active 441344
+  Level 3  Grids 176  Memory(MB) 0.813575  Coverage 0.000137463  Ratio 1.47071  Flagged 0  Active 147600
+  Level 4  Grids 81  Memory(MB) 0.353068  Coverage 5.15208e-06  Ratio 1.37963  Flagged 0  Active 44256
+
+Cycle 130  Time 14.443876999749  MaxDepth 4  Grids 1423  Memory(MB) 127.948  Ratio 1.79861
+  Level 0  Grids 4  Memory(MB) 79.8665  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 737  Memory(MB) 43.1127  Coverage 0.197852  Ratio 2.01556  Flagged 0  Active 3319400
+  Level 2  Grids 401  Memory(MB) 3.69406  Coverage 0.00376874  Ratio 1.66061  Flagged 0  Active 505832
+  Level 3  Grids 192  Memory(MB) 0.893377  Coverage 0.000147857  Ratio 1.45419  Flagged 0  Active 158760
+  Level 4  Grids 89  Memory(MB) 0.381621  Coverage 5.4324e-06  Ratio 1.35787  Flagged 0  Active 46664
+
+Cycle 131  Time 14.768783963296  MaxDepth 4  Grids 1519  Memory(MB) 127.948  Ratio 1.8507
+  Level 0  Grids 4  Memory(MB) 78.8612  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 759  Memory(MB) 43.7178  Coverage 0.201679  Ratio 2.11086  Flagged 0  Active 3383608
+  Level 2  Grids 458  Memory(MB) 3.95958  Coverage 0.00399375  Ratio 1.66477  Flagged 0  Active 536032
+  Level 3  Grids 198  Memory(MB) 0.966345  Coverage 0.000166461  Ratio 1.55639  Flagged 0  Active 178736
+  Level 4  Grids 100  Memory(MB) 0.443302  Coverage 6.46245e-06  Ratio 1.30445  Flagged 0  Active 55512
+
+Cycle 132  Time 15.100996100475  MaxDepth 4  Grids 1595  Memory(MB) 127.948  Ratio 1.8189
+  Level 0  Grids 4  Memory(MB) 77.423  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 755  Memory(MB) 44.744  Coverage 0.20798  Ratio 2.08756  Flagged 0  Active 3489328
+  Level 2  Grids 508  Memory(MB) 4.26976  Coverage 0.00424021  Ratio 1.646  Flagged 0  Active 569112
+  Level 3  Grids 220  Memory(MB) 1.00924  Coverage 0.000166662  Ratio 1.52584  Flagged 0  Active 178952
+  Level 4  Grids 108  Memory(MB) 0.502238  Coverage 7.34814e-06  Ratio 1.34427  Flagged 0  Active 63120
+
+Cycle 133  Time 15.440677423232  MaxDepth 4  Grids 1642  Memory(MB) 127.948  Ratio 1.7952
+  Level 0  Grids 4  Memory(MB) 76.3954  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 781  Memory(MB) 45.2675  Coverage 0.21218  Ratio 2.02701  Flagged 0  Active 3559784
+  Level 2  Grids 506  Memory(MB) 4.59732  Coverage 0.00471598  Ratio 1.68016  Flagged 0  Active 632968
+  Level 3  Grids 232  Memory(MB) 1.15481  Coverage 0.00018426  Ratio 1.53271  Flagged 0  Active 197848
+  Level 4  Grids 119  Memory(MB) 0.533232  Coverage 7.50739e-06  Ratio 1.26779  Flagged 0  Active 64488
+
+Cycle 134  Time 15.787995609447  MaxDepth 4  Grids 1710  Memory(MB) 127.948  Ratio 1.82279
+  Level 0  Grids 4  Memory(MB) 75.3151  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 772  Memory(MB) 45.7855  Coverage 0.21538  Ratio 2.11652  Flagged 0  Active 3613472
+  Level 2  Grids 539  Memory(MB) 5.00011  Coverage 0.00520086  Ratio 1.67472  Flagged 0  Active 698048
+  Level 3  Grids 256  Memory(MB) 1.25273  Coverage 0.000206083  Ratio 1.5038  Flagged 0  Active 221280
+  Level 4  Grids 139  Memory(MB) 0.594791  Coverage 7.9507e-06  Ratio 1.34796  Flagged 0  Active 68296
+
+Cycle 135  Time 16.143122083744  MaxDepth 4  Grids 1787  Memory(MB) 127.948  Ratio 1.78896
+  Level 0  Grids 4  Memory(MB) 74.1658  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 799  Memory(MB) 46.5571  Coverage 0.219659  Ratio 2.04737  Flagged 0  Active 3685264
+  Level 2  Grids 581  Memory(MB) 5.22103  Coverage 0.00535387  Ratio 1.66955  Flagged 0  Active 718584
+  Level 3  Grids 272  Memory(MB) 1.36834  Coverage 0.000218578  Ratio 1.49449  Flagged 0  Active 234696
+  Level 4  Grids 131  Memory(MB) 0.635973  Coverage 8.69203e-06  Ratio 1.34746  Flagged 0  Active 74664
+
+Cycle 136  Time 16.506232099993  MaxDepth 4  Grids 1839  Memory(MB) 127.948  Ratio 1.77955
+  Level 0  Grids 4  Memory(MB) 72.7108  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 809  Memory(MB) 47.3776  Coverage 0.227306  Ratio 2.00743  Flagged 0  Active 3813568
+  Level 2  Grids 585  Memory(MB) 5.64487  Coverage 0.00596899  Ratio 1.68629  Flagged 0  Active 801144
+  Level 3  Grids 298  Memory(MB) 1.48957  Coverage 0.000246376  Ratio 1.54351  Flagged 0  Active 264544
+  Level 4  Grids 143  Memory(MB) 0.725476  Coverage 1.01067e-05  Ratio 1.35764  Flagged 0  Active 86816
+
+Cycle 137  Time 16.877504825557  MaxDepth 4  Grids 1917  Memory(MB) 127.948  Ratio 1.79587
+  Level 0  Grids 4  Memory(MB) 71.8705  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 813  Memory(MB) 47.6707  Coverage 0.229492  Ratio 2.04731  Flagged 0  Active 3850240
+  Level 2  Grids 627  Memory(MB) 6.04327  Coverage 0.00633144  Ratio 1.72574  Flagged 0  Active 849792
+  Level 3  Grids 317  Memory(MB) 1.59262  Coverage 0.000255063  Ratio 1.51797  Flagged 0  Active 273872
+  Level 4  Grids 156  Memory(MB) 0.771173  Coverage 1.02511e-05  Ratio 1.32688  Flagged 0  Active 88056
+
+Cycle 138  Time 17.257123428379  MaxDepth 4  Grids 1963  Memory(MB) 127.948  Ratio 1.76753
+  Level 0  Grids 4  Memory(MB) 70.4506  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 819  Memory(MB) 48.5382  Coverage 0.235826  Ratio 2.01956  Flagged 0  Active 3956496
+  Level 2  Grids 639  Memory(MB) 6.38932  Coverage 0.00675595  Ratio 1.70068  Flagged 0  Active 906768
+  Level 3  Grids 334  Memory(MB) 1.70207  Coverage 0.000277109  Ratio 1.51563  Flagged 0  Active 297544
+  Level 4  Grids 167  Memory(MB) 0.868057  Coverage 1.1663e-05  Ratio 1.28554  Flagged 0  Active 100184
+
+Cycle 139  Time 17.645275169433  MaxDepth 4  Grids 2105  Memory(MB) 127.948  Ratio 1.7638
+  Level 0  Grids 4  Memory(MB) 69.181  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 856  Memory(MB) 49.2253  Coverage 0.241164  Ratio 2.02618  Flagged 0  Active 4046064
+  Level 2  Grids 703  Memory(MB) 6.78315  Coverage 0.00720644  Ratio 1.70157  Flagged 0  Active 967232
+  Level 3  Grids 362  Memory(MB) 1.8474  Coverage 0.00028415  Ratio 1.48171  Flagged 0  Active 305104
+  Level 4  Grids 180  Memory(MB) 0.911436  Coverage 1.21836e-05  Ratio 1.32112  Flagged 0  Active 104656
+
+Cycle 140  Time 18.04215148099  MaxDepth 4  Grids 2182  Memory(MB) 127.948  Ratio 1.75108
+  Level 0  Grids 4  Memory(MB) 67.8687  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 852  Memory(MB) 49.9017  Coverage 0.246839  Ratio 2.02053  Flagged 0  Active 4141272
+  Level 2  Grids 748  Memory(MB) 7.16611  Coverage 0.00765347  Ratio 1.69241  Flagged 0  Active 1027232
+  Level 3  Grids 382  Memory(MB) 1.98589  Coverage 0.000321262  Ratio 1.47816  Flagged 0  Active 344952
+  Level 4  Grids 196  Memory(MB) 1.02589  Coverage 1.41868e-05  Ratio 1.3306  Flagged 0  Active 121864
+
+Cycle 141  Time 18.447948063844  MaxDepth 4  Grids 2279  Memory(MB) 127.948  Ratio 1.73804
+  Level 0  Grids 4  Memory(MB) 66.7806  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 901  Memory(MB) 50.2781  Coverage 0.251616  Ratio 1.98405  Flagged 0  Active 4221408
+  Level 2  Grids 747  Memory(MB) 7.66524  Coverage 0.00825369  Ratio 1.70187  Flagged 0  Active 1107792
+  Level 3  Grids 411  Memory(MB) 2.12011  Coverage 0.000333838  Ratio 1.48273  Flagged 0  Active 358456
+  Level 4  Grids 216  Memory(MB) 1.10417  Coverage 1.48043e-05  Ratio 1.31788  Flagged 0  Active 127168
+
+Cycle 142  Time 18.862864980683  MaxDepth 4  Grids 2329  Memory(MB) 127.948  Ratio 1.73103
+  Level 0  Grids 4  Memory(MB) 65.5575  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 864  Memory(MB) 50.8455  Coverage 0.256307  Ratio 1.96704  Flagged 0  Active 4300112
+  Level 2  Grids 818  Memory(MB) 8.09975  Coverage 0.00870728  Ratio 1.71558  Flagged 0  Active 1168672
+  Level 3  Grids 425  Memory(MB) 2.28588  Coverage 0.000354558  Ratio 1.49533  Flagged 0  Active 380704
+  Level 4  Grids 218  Memory(MB) 1.15963  Coverage 1.56043e-05  Ratio 1.30825  Flagged 0  Active 134040
+
+Cycle 143  Time 19.287106751382  MaxDepth 4  Grids 2324  Memory(MB) 127.948  Ratio 1.77864
+  Level 0  Grids 4  Memory(MB) 64.4082  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 870  Memory(MB) 50.8131  Coverage 0.26171  Ratio 2.05914  Flagged 0  Active 4390760
+  Level 2  Grids 757  Memory(MB) 9.01198  Coverage 0.0103726  Ratio 1.75367  Flagged 0  Active 1392192
+  Level 3  Grids 458  Memory(MB) 2.47471  Coverage 0.00038407  Ratio 1.5057  Flagged 0  Active 412392
+  Level 4  Grids 235  Memory(MB) 1.24028  Coverage 1.65999e-05  Ratio 1.34882  Flagged 0  Active 142592
+
+Cycle 144  Time 19.720882450243  MaxDepth 4  Grids 2408  Memory(MB) 127.948  Ratio 1.73402
+  Level 0  Grids 4  Memory(MB) 63.673  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 837  Memory(MB) 50.7545  Coverage 0.263335  Ratio 2.00037  Flagged 0  Active 4418032
+  Level 2  Grids 821  Memory(MB) 9.53142  Coverage 0.0110791  Ratio 1.72863  Flagged 0  Active 1487008
+  Level 3  Grids 503  Memory(MB) 2.66604  Coverage 0.000406832  Ratio 1.48038  Flagged 0  Active 436832
+  Level 4  Grids 243  Memory(MB) 1.32332  Coverage 1.7602e-05  Ratio 1.35546  Flagged 0  Active 151200
+
+Cycle 145  Time 20.164405805212  MaxDepth 4  Grids 2550  Memory(MB) 127.948  Ratio 1.74949
+  Level 0  Grids 4  Memory(MB) 62.4509  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 907  Memory(MB) 51.4437  Coverage 0.267765  Ratio 2.03905  Flagged 0  Active 4492344
+  Level 2  Grids 841  Memory(MB) 9.76027  Coverage 0.011185  Ratio 1.71234  Flagged 0  Active 1501224
+  Level 3  Grids 527  Memory(MB) 2.90135  Coverage 0.000437364  Ratio 1.50951  Flagged 0  Active 469616
+  Level 4  Grids 271  Memory(MB) 1.39202  Coverage 1.80034e-05  Ratio 1.35867  Flagged 0  Active 154648
+
+Cycle 146  Time 20.617895299103  MaxDepth 4  Grids 2595  Memory(MB) 127.948  Ratio 1.74137
+  Level 0  Grids 4  Memory(MB) 61.4989  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 883  Memory(MB) 51.6263  Coverage 0.271556  Ratio 2.02773  Flagged 0  Active 4555960
+  Level 2  Grids 883  Memory(MB) 10.2031  Coverage 0.01179  Ratio 1.74974  Flagged 0  Active 1582432
+  Level 3  Grids 551  Memory(MB) 3.05296  Coverage 0.000469863  Ratio 1.47952  Flagged 0  Active 504512
+  Level 4  Grids 274  Memory(MB) 1.56693  Coverage 2.1128e-05  Ratio 1.31436  Flagged 0  Active 181488
+
+Cycle 147  Time 20.816431918178  MaxDepth 4  Grids 2634  Memory(MB) 127.948  Ratio 1.71927
+  Level 0  Grids 4  Memory(MB) 60.4638  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 870  Memory(MB) 52.2696  Coverage 0.278325  Ratio 1.99608  Flagged 0  Active 4669520
+  Level 2  Grids 904  Memory(MB) 10.5  Coverage 0.0120986  Ratio 1.72966  Flagged 0  Active 1623848
+  Level 3  Grids 563  Memory(MB) 3.09128  Coverage 0.000472568  Ratio 1.4847  Flagged 0  Active 507416
+  Level 4  Grids 293  Memory(MB) 1.62361  Coverage 2.2009e-05  Ratio 1.31215  Flagged 0  Active 189056
+
+Cycle 148  Time 21.284571617511  MaxDepth 4  Grids 2760  Memory(MB) 127.948  Ratio 1.73958
+  Level 0  Grids 4  Memory(MB) 59.3794  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 914  Memory(MB) 52.6276  Coverage 0.282304  Ratio 2.02676  Flagged 0  Active 4736272
+  Level 2  Grids 930  Memory(MB) 10.9193  Coverage 0.0126729  Ratio 1.73389  Flagged 0  Active 1700928
+  Level 3  Grids 599  Memory(MB) 3.28456  Coverage 0.000495598  Ratio 1.48123  Flagged 0  Active 532144
+  Level 4  Grids 313  Memory(MB) 1.73733  Coverage 2.29571e-05  Ratio 1.40897  Flagged 0  Active 197200
+
+Cycle 149  Time 21.76322904195  MaxDepth 4  Grids 2809  Memory(MB) 127.948  Ratio 1.75018
+  Level 0  Grids 4  Memory(MB) 58.667  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 919  Memory(MB) 52.5535  Coverage 0.283844  Ratio 2.04219  Flagged 0  Active 4762120
+  Level 2  Grids 946  Memory(MB) 11.3886  Coverage 0.0132056  Ratio 1.77559  Flagged 0  Active 1772424
+  Level 3  Grids 611  Memory(MB) 3.46741  Coverage 0.000527784  Ratio 1.4933  Flagged 0  Active 566704
+  Level 4  Grids 329  Memory(MB) 1.87174  Coverage 2.45208e-05  Ratio 1.33547  Flagged 0  Active 210632
+
+Cycle 150  Time 22.252639786721  MaxDepth 4  Grids 2652  Memory(MB) 127.948  Ratio 1.69935
+  Level 0  Grids 4  Memory(MB) 53.0728  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 686  Memory(MB) 57.1881  Coverage 0.330254  Ratio 2.01781  Flagged 0  Active 5540736
+  Level 2  Grids 966  Memory(MB) 12.0969  Coverage 0.014126  Ratio 1.74733  Flagged 0  Active 1895960
+  Level 3  Grids 631  Memory(MB) 3.6167  Coverage 0.000528172  Ratio 1.49163  Flagged 0  Active 567120
+  Level 4  Grids 365  Memory(MB) 1.97381  Coverage 2.53636e-05  Ratio 1.32965  Flagged 0  Active 217872
+
+Cycle 151  Time 22.37464589966  MaxDepth 4  Grids 2665  Memory(MB) 127.948  Ratio 1.71595
+  Level 0  Grids 4  Memory(MB) 52.9356  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 689  Memory(MB) 57.1298  Coverage 0.330237  Ratio 2.05693  Flagged 0  Active 5540464
+  Level 2  Grids 969  Memory(MB) 12.1566  Coverage 0.0144299  Ratio 1.76089  Flagged 0  Active 1936752
+  Level 3  Grids 632  Memory(MB) 3.73256  Coverage 0.000557154  Ratio 1.50019  Flagged 0  Active 598240
+  Level 4  Grids 371  Memory(MB) 1.99376  Coverage 2.50982e-05  Ratio 1.32984  Flagged 0  Active 215592
+
+Cycle 152  Time 22.877791418643  MaxDepth 4  Grids 2765  Memory(MB) 127.948  Ratio 1.73658
+  Level 0  Grids 4  Memory(MB) 52.1367  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 685  Memory(MB) 57.0939  Coverage 0.332406  Ratio 2.1249  Flagged 0  Active 5576848
+  Level 2  Grids 1025  Memory(MB) 12.6004  Coverage 0.0150267  Ratio 1.78578  Flagged 0  Active 2016856
+  Level 3  Grids 650  Memory(MB) 3.92609  Coverage 0.000596315  Ratio 1.49967  Flagged 0  Active 640288
+  Level 4  Grids 401  Memory(MB) 2.19119  Coverage 2.81418e-05  Ratio 1.32883  Flagged 0  Active 241736
+
+Cycle 153  Time 23.39223859778  MaxDepth 4  Grids 2815  Memory(MB) 127.948  Ratio 1.75817
+  Level 0  Grids 4  Memory(MB) 50.5487  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 676  Memory(MB) 57.8658  Coverage 0.343889  Ratio 2.17384  Flagged 0  Active 5769496
+  Level 2  Grids 1038  Memory(MB) 13.0834  Coverage 0.0154122  Ratio 1.79597  Flagged 0  Active 2068592
+  Level 3  Grids 690  Memory(MB) 4.06659  Coverage 0.000607274  Ratio 1.52789  Flagged 0  Active 652056
+  Level 4  Grids 407  Memory(MB) 2.3838  Coverage 3.11583e-05  Ratio 1.35939  Flagged 0  Active 267648
+
+Cycle 154  Time 23.918240416389  MaxDepth 4  Grids 2911  Memory(MB) 127.948  Ratio 1.75494
+  Level 0  Grids 4  Memory(MB) 49.7929  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 678  Memory(MB) 57.7668  Coverage 0.346128  Ratio 2.13693  Flagged 0  Active 5807072
+  Level 2  Grids 1083  Memory(MB) 13.5538  Coverage 0.016022  Ratio 1.82839  Flagged 0  Active 2150432
+  Level 3  Grids 722  Memory(MB) 4.28117  Coverage 0.000643484  Ratio 1.52438  Flagged 0  Active 690936
+  Level 4  Grids 424  Memory(MB) 2.55365  Coverage 3.30973e-05  Ratio 1.34685  Flagged 0  Active 284304
+
+Cycle 155  Time 23.990730816803  MaxDepth 4  Grids 2956  Memory(MB) 127.948  Ratio 1.76029
+  Level 0  Grids 4  Memory(MB) 49.7864  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 689  Memory(MB) 57.6358  Coverage 0.345882  Ratio 2.13357  Flagged 0  Active 5802944
+  Level 2  Grids 1118  Memory(MB) 13.639  Coverage 0.0160941  Ratio 1.83076  Flagged 0  Active 2160120
+  Level 3  Grids 728  Memory(MB) 4.31796  Coverage 0.000636652  Ratio 1.53678  Flagged 0  Active 683600
+  Level 4  Grids 417  Memory(MB) 2.56921  Coverage 3.32361e-05  Ratio 1.34254  Flagged 0  Active 285496
+
+Cycle 156  Time 24.530173791723  MaxDepth 4  Grids 3044  Memory(MB) 127.948  Ratio 1.75197
+  Level 0  Grids 4  Memory(MB) 49.1497  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 701  Memory(MB) 57.4181  Coverage 0.345744  Ratio 2.13126  Flagged 0  Active 5800616
+  Level 2  Grids 1119  Memory(MB) 14.0508  Coverage 0.0167491  Ratio 1.82381  Flagged 0  Active 2248024
+  Level 3  Grids 753  Memory(MB) 4.58829  Coverage 0.00068365  Ratio 1.54361  Flagged 0  Active 734064
+  Level 4  Grids 467  Memory(MB) 2.74132  Coverage 3.57693e-05  Ratio 1.34433  Flagged 0  Active 307256
+
+Cycle 157  Time 25.081730717932  MaxDepth 4  Grids 3098  Memory(MB) 127.948  Ratio 1.74839
+  Level 0  Grids 4  Memory(MB) 48.0975  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 678  Memory(MB) 57.7434  Coverage 0.352709  Ratio 2.10166  Flagged 0  Active 5917480
+  Level 2  Grids 1159  Memory(MB) 14.3481  Coverage 0.017011  Ratio 1.83666  Flagged 0  Active 2283176
+  Level 3  Grids 768  Memory(MB) 4.85442  Coverage 0.000718109  Ratio 1.55292  Flagged 0  Active 771064
+  Level 4  Grids 489  Memory(MB) 2.90477  Coverage 3.70713e-05  Ratio 1.3543  Flagged 0  Active 318440
+
+Cycle 158  Time 25.645672558393  MaxDepth 4  Grids 3152  Memory(MB) 127.948  Ratio 1.74215
+  Level 0  Grids 4  Memory(MB) 47.1349  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 663  Memory(MB) 57.8088  Coverage 0.356319  Ratio 2.09115  Flagged 0  Active 5978048
+  Level 2  Grids 1177  Memory(MB) 14.8282  Coverage 0.0176924  Ratio 1.8287  Flagged 0  Active 2374640
+  Level 3  Grids 806  Memory(MB) 5.07296  Coverage 0.000750653  Ratio 1.5553  Flagged 0  Active 806008
+  Level 4  Grids 502  Memory(MB) 3.10342  Coverage 4.01009e-05  Ratio 1.37621  Flagged 0  Active 344464
+
+Cycle 159  Time 26.222276253991  MaxDepth 4  Grids 3216  Memory(MB) 127.948  Ratio 1.72324
+  Level 0  Grids 4  Memory(MB) 46.9762  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 663  Memory(MB) 57.1028  Coverage 0.353436  Ratio 1.9839  Flagged 0  Active 5929680
+  Level 2  Grids 1214  Memory(MB) 15.2122  Coverage 0.0183283  Ratio 1.84568  Flagged 0  Active 2459984
+  Level 3  Grids 817  Memory(MB) 5.41804  Coverage 0.000796974  Ratio 1.55219  Flagged 0  Active 855744
+  Level 4  Grids 518  Memory(MB) 3.23905  Coverage 4.08115e-05  Ratio 1.3703  Flagged 0  Active 350568
+
+Cycle 160  Time 26.811824858553  MaxDepth 4  Grids 3338  Memory(MB) 127.948  Ratio 1.73049
+  Level 0  Grids 4  Memory(MB) 45.9452  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 663  Memory(MB) 57.2462  Coverage 0.358001  Ratio 2.09913  Flagged 0  Active 6006264
+  Level 2  Grids 1255  Memory(MB) 15.6475  Coverage 0.0187721  Ratio 1.82096  Flagged 0  Active 2519544
+  Level 3  Grids 888  Memory(MB) 5.65018  Coverage 0.000818536  Ratio 1.52914  Flagged 0  Active 878896
+  Level 4  Grids 528  Memory(MB) 3.45917  Coverage 4.35812e-05  Ratio 1.38916  Flagged 0  Active 374360
+
+Cycle 161  Time 27.414607668261  MaxDepth 4  Grids 3192  Memory(MB) 127.948  Ratio 1.73943
+  Level 0  Grids 4  Memory(MB) 45.1035  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 689  Memory(MB) 55.7208  Coverage 0.362559  Ratio 2.00362  Flagged 0  Active 6082736
+  Level 2  Grids 1085  Memory(MB) 17.5041  Coverage 0.0239449  Ratio 1.9048  Flagged 0  Active 3213824
+  Level 3  Grids 868  Memory(MB) 5.95096  Coverage 0.000879027  Ratio 1.56004  Flagged 0  Active 943848
+  Level 4  Grids 546  Memory(MB) 3.66899  Coverage 4.65587e-05  Ratio 1.36072  Flagged 0  Active 399936
+
+Cycle 162  Time 28.030920353419  MaxDepth 4  Grids 3233  Memory(MB) 127.948  Ratio 1.74832
+  Level 0  Grids 4  Memory(MB) 44.7097  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 661  Memory(MB) 55.1462  Coverage 0.359761  Ratio 2.03725  Flagged 0  Active 6035784
+  Level 2  Grids 1108  Memory(MB) 18.0631  Coverage 0.0247973  Ratio 1.93869  Flagged 0  Active 3328232
+  Level 3  Grids 898  Memory(MB) 6.14797  Coverage 0.00089284  Ratio 1.5279  Flagged 0  Active 958680
+  Level 4  Grids 562  Memory(MB) 3.8813  Coverage 4.89689e-05  Ratio 1.38359  Flagged 0  Active 420640
+
+Cycle 163  Time 28.661065092595  MaxDepth 4  Grids 3301  Memory(MB) 127.948  Ratio 1.75925
+  Level 0  Grids 4  Memory(MB) 43.816  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 662  Memory(MB) 55.2218  Coverage 0.364302  Ratio 2.09511  Flagged 0  Active 6111976
+  Level 2  Grids 1131  Memory(MB) 18.3973  Coverage 0.0252388  Ratio 1.94589  Flagged 0  Active 3387496
+  Level 3  Grids 929  Memory(MB) 6.41361  Coverage 0.000915453  Ratio 1.53563  Flagged 0  Active 982960
+  Level 4  Grids 575  Memory(MB) 4.09954  Coverage 5.11166e-05  Ratio 1.36509  Flagged 0  Active 439088
+
+Cycle 164  Time 29.305350709138  MaxDepth 4  Grids 3386  Memory(MB) 127.948  Ratio 1.74737
+  Level 0  Grids 4  Memory(MB) 42.6361  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 642  Memory(MB) 55.4604  Coverage 0.371322  Ratio 2.1507  Flagged 0  Active 6229744
+  Level 2  Grids 1148  Memory(MB) 18.8144  Coverage 0.025968  Ratio 1.89288  Flagged 0  Active 3485360
+  Level 3  Grids 965  Memory(MB) 6.69718  Coverage 0.000962839  Ratio 1.54381  Flagged 0  Active 1033840
+  Level 4  Grids 627  Memory(MB) 4.34022  Coverage 5.34654e-05  Ratio 1.37965  Flagged 0  Active 459264
+
+Cycle 165  Time 29.964092810096  MaxDepth 4  Grids 3432  Memory(MB) 127.948  Ratio 1.75098
+  Level 0  Grids 4  Memory(MB) 41.6481  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 632  Memory(MB) 55.6302  Coverage 0.376101  Ratio 2.15316  Flagged 0  Active 6309920
+  Level 2  Grids 1172  Memory(MB) 19.1427  Coverage 0.0260691  Ratio 1.92934  Flagged 0  Active 3498936
+  Level 3  Grids 990  Memory(MB) 6.96435  Coverage 0.000986949  Ratio 1.53278  Flagged 0  Active 1059728
+  Level 4  Grids 634  Memory(MB) 4.56297  Coverage 5.62426e-05  Ratio 1.35953  Flagged 0  Active 483120
+
+Cycle 166  Time 30.637613927525  MaxDepth 4  Grids 3505  Memory(MB) 127.948  Ratio 1.74765
+  Level 0  Grids 4  Memory(MB) 40.9138  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 629  Memory(MB) 55.2994  Coverage 0.37919  Ratio 2.1253  Flagged 0  Active 6361760
+  Level 2  Grids 1200  Memory(MB) 19.5852  Coverage 0.0270094  Ratio 1.93256  Flagged 0  Active 3625136
+  Level 3  Grids 1019  Memory(MB) 7.38044  Coverage 0.00107058  Ratio 1.55003  Flagged 0  Active 1149528
+  Level 4  Grids 653  Memory(MB) 4.76943  Coverage 5.84135e-05  Ratio 1.35093  Flagged 0  Active 501768
+
+Cycle 167  Time 30.816429946315  MaxDepth 4  Grids 3443  Memory(MB) 127.948  Ratio 1.75434
+  Level 0  Grids 4  Memory(MB) 40.8833  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 630  Memory(MB) 55.1206  Coverage 0.377399  Ratio 2.11783  Flagged 0  Active 6331712
+  Level 2  Grids 1208  Memory(MB) 19.4458  Coverage 0.0272275  Ratio 1.93473  Flagged 0  Active 3654416
+  Level 3  Grids 948  Memory(MB) 7.61936  Coverage 0.00116947  Ratio 1.5686  Flagged 0  Active 1255704
+  Level 4  Grids 653  Memory(MB) 4.87925  Coverage 5.97341e-05  Ratio 1.33811  Flagged 0  Active 513112
+
+Cycle 168  Time 31.509070557498  MaxDepth 4  Grids 3464  Memory(MB) 127.948  Ratio 1.75282
+  Level 0  Grids 4  Memory(MB) 40.4187  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 633  Memory(MB) 54.7601  Coverage 0.377738  Ratio 2.19428  Flagged 0  Active 6337392
+  Level 2  Grids 1197  Memory(MB) 19.7022  Coverage 0.0275306  Ratio 1.88318  Flagged 0  Active 3695096
+  Level 3  Grids 952  Memory(MB) 8.0734  Coverage 0.00121474  Ratio 1.56284  Flagged 0  Active 1304312
+  Level 4  Grids 678  Memory(MB) 4.99383  Coverage 6.01308e-05  Ratio 1.37581  Flagged 0  Active 516520
+
+Cycle 169  Time 32.217246025184  MaxDepth 4  Grids 3530  Memory(MB) 127.948  Ratio 1.76049
+  Level 0  Grids 4  Memory(MB) 39.763  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 648  Memory(MB) 54.455  Coverage 0.380606  Ratio 2.26119  Flagged 0  Active 6385512
+  Level 2  Grids 1185  Memory(MB) 20.1861  Coverage 0.0280445  Ratio 1.87609  Flagged 0  Active 3764064
+  Level 3  Grids 973  Memory(MB) 8.29968  Coverage 0.00122996  Ratio 1.58407  Flagged 0  Active 1320664
+  Level 4  Grids 720  Memory(MB) 5.24458  Coverage 6.3356e-05  Ratio 1.35667  Flagged 0  Active 544224
+
+Cycle 170  Time 32.941302486214  MaxDepth 4  Grids 3632  Memory(MB) 127.948  Ratio 1.76857
+  Level 0  Grids 4  Memory(MB) 39.4072  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 652  Memory(MB) 53.9163  Coverage 0.378771  Ratio 2.24515  Flagged 0  Active 6354728
+  Level 2  Grids 1215  Memory(MB) 20.5162  Coverage 0.0285754  Ratio 1.89964  Flagged 0  Active 3835328
+  Level 3  Grids 1030  Memory(MB) 8.49376  Coverage 0.00127483  Ratio 1.58538  Flagged 0  Active 1368840
+  Level 4  Grids 731  Memory(MB) 5.6148  Coverage 6.97924e-05  Ratio 1.38248  Flagged 0  Active 599512
+
+Cycle 171  Time 33.681593632225  MaxDepth 4  Grids 3617  Memory(MB) 127.948  Ratio 1.75373
+  Level 0  Grids 4  Memory(MB) 39.1746  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 633  Memory(MB) 53.0467  Coverage 0.377079  Ratio 2.15501  Flagged 0  Active 6326344
+  Level 2  Grids 1251  Memory(MB) 20.9703  Coverage 0.0295551  Ratio 1.92841  Flagged 0  Active 3966824
+  Level 3  Grids 998  Memory(MB) 8.86348  Coverage 0.00135496  Ratio 1.56871  Flagged 0  Active 1454880
+  Level 4  Grids 731  Memory(MB) 5.89319  Coverage 7.40429e-05  Ratio 1.35856  Flagged 0  Active 636024
+
+Cycle 172  Time 34.438480863643  MaxDepth 4  Grids 3735  Memory(MB) 127.948  Ratio 1.74861
+  Level 0  Grids 4  Memory(MB) 38.5525  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 642  Memory(MB) 52.9938  Coverage 0.376635  Ratio 2.1211  Flagged 0  Active 6318880
+  Level 2  Grids 1284  Memory(MB) 21.3279  Coverage 0.029572  Ratio 1.91039  Flagged 0  Active 3969088
+  Level 3  Grids 1047  Memory(MB) 9.08513  Coverage 0.0013194  Ratio 1.58431  Flagged 0  Active 1416696
+  Level 4  Grids 758  Memory(MB) 5.98891  Coverage 7.23125e-05  Ratio 1.38467  Flagged 0  Active 621160
+
+Cycle 173  Time 35.212333446058  MaxDepth 4  Grids 3679  Memory(MB) 127.948  Ratio 1.73815
+  Level 0  Grids 4  Memory(MB) 37.8715  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 631  Memory(MB) 52.7373  Coverage 0.379936  Ratio 2.0794  Flagged 0  Active 6374264
+  Level 2  Grids 1262  Memory(MB) 21.5574  Coverage 0.0299272  Ratio 1.93174  Flagged 0  Active 4016760
+  Level 3  Grids 1015  Memory(MB) 9.45986  Coverage 0.00141072  Ratio 1.5612  Flagged 0  Active 1514744
+  Level 4  Grids 767  Memory(MB) 6.32209  Coverage 7.81072e-05  Ratio 1.37165  Flagged 0  Active 670936
+
+Cycle 174  Time 36.003528668958  MaxDepth 4  Grids 3815  Memory(MB) 127.948  Ratio 1.76178
+  Level 0  Grids 4  Memory(MB) 37.2209  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 653  Memory(MB) 52.4384  Coverage 0.381636  Ratio 2.18161  Flagged 0  Active 6402784
+  Level 2  Grids 1295  Memory(MB) 21.9941  Coverage 0.0306234  Ratio 1.95708  Flagged 0  Active 4110208
+  Level 3  Grids 1059  Memory(MB) 9.82635  Coverage 0.00142156  Ratio 1.56896  Flagged 0  Active 1526384
+  Level 4  Grids 804  Memory(MB) 6.46858  Coverage 7.8883e-05  Ratio 1.35902  Flagged 0  Active 677600
+
+Cycle 175  Time 36.812452006783  MaxDepth 4  Grids 3802  Memory(MB) 127.948  Ratio 1.73589
+  Level 0  Grids 4  Memory(MB) 36.7819  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 615  Memory(MB) 51.7074  Coverage 0.380856  Ratio 2.14681  Flagged 0  Active 6389704
+  Level 2  Grids 1300  Memory(MB) 22.566  Coverage 0.0317968  Ratio 1.92826  Flagged 0  Active 4267688
+  Level 3  Grids 1074  Memory(MB) 10.2714  Coverage 0.00148092  Ratio 1.54969  Flagged 0  Active 1590128
+  Level 4  Grids 809  Memory(MB) 6.62159  Coverage 7.84695e-05  Ratio 1.36027  Flagged 0  Active 674048
+
+Cycle 176  Time 37.639497282292  MaxDepth 4  Grids 3936  Memory(MB) 127.948  Ratio 1.74333
+  Level 0  Grids 4  Memory(MB) 35.8175  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 622  Memory(MB) 51.7521  Coverage 0.388255  Ratio 2.15858  Flagged 0  Active 6513832
+  Level 2  Grids 1372  Memory(MB) 22.8593  Coverage 0.0321819  Ratio 1.91285  Flagged 0  Active 4319384
+  Level 3  Grids 1113  Memory(MB) 10.7853  Coverage 0.00153974  Ratio 1.58893  Flagged 0  Active 1653280
+  Level 4  Grids 825  Memory(MB) 6.73409  Coverage 7.88895e-05  Ratio 1.35537  Flagged 0  Active 677656
+
+Cycle 177  Time 38.485066832182  MaxDepth 4  Grids 3972  Memory(MB) 127.948  Ratio 1.75527
+  Level 0  Grids 4  Memory(MB) 35.6319  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 646  Memory(MB) 51.0696  Coverage 0.384008  Ratio 2.14769  Flagged 0  Active 6442592
+  Level 2  Grids 1348  Memory(MB) 23.0011  Coverage 0.0324939  Ratio 1.93694  Flagged 0  Active 4361256
+  Level 3  Grids 1114  Memory(MB) 11.1581  Coverage 0.00162915  Ratio 1.61078  Flagged 0  Active 1749288
+  Level 4  Grids 860  Memory(MB) 7.08765  Coverage 8.39988e-05  Ratio 1.36178  Flagged 0  Active 721544
+
+Cycle 178  Time 39.34957167493  MaxDepth 4  Grids 4016  Memory(MB) 127.948  Ratio 1.73618
+  Level 0  Grids 4  Memory(MB) 34.9987  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 617  Memory(MB) 50.8068  Coverage 0.384922  Ratio 2.20279  Flagged 0  Active 6457920
+  Level 2  Grids 1390  Memory(MB) 23.5121  Coverage 0.0330063  Ratio 1.87458  Flagged 0  Active 4430024
+  Level 3  Grids 1136  Memory(MB) 11.2578  Coverage 0.00159607  Ratio 1.59043  Flagged 0  Active 1713768
+  Level 4  Grids 869  Memory(MB) 7.37281  Coverage 8.66037e-05  Ratio 1.37281  Flagged 0  Active 743920
+
+Cycle 179  Time 39.719083814833  MaxDepth 4  Grids 4058  Memory(MB) 127.948  Ratio 1.76764
+  Level 0  Grids 4  Memory(MB) 35.1038  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 641  Memory(MB) 50.3829  Coverage 0.381171  Ratio 2.20473  Flagged 0  Active 6394984
+  Level 2  Grids 1382  Memory(MB) 23.4739  Coverage 0.0331224  Ratio 1.93539  Flagged 0  Active 4445616
+  Level 3  Grids 1153  Memory(MB) 11.604  Coverage 0.00166467  Ratio 1.61019  Flagged 0  Active 1787424
+  Level 4  Grids 878  Memory(MB) 7.38373  Coverage 8.61418e-05  Ratio 1.3902  Flagged 0  Active 739952
+
+Cycle 180  Time 40.611215492765  MaxDepth 4  Grids 4068  Memory(MB) 127.948  Ratio 1.74301
+  Level 0  Grids 4  Memory(MB) 34.6677  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 651  Memory(MB) 49.8567  Coverage 0.380884  Ratio 2.18561  Flagged 0  Active 6390176
+  Level 2  Grids 1379  Memory(MB) 23.7563  Coverage 0.0337386  Ratio 1.89613  Flagged 0  Active 4528312
+  Level 3  Grids 1152  Memory(MB) 11.9014  Coverage 0.00171692  Ratio 1.58437  Flagged 0  Active 1843528
+  Level 4  Grids 882  Memory(MB) 7.76602  Coverage 9.1793e-05  Ratio 1.38296  Flagged 0  Active 788496
+
+Cycle 181  Time 40.816432586158  MaxDepth 4  Grids 4059  Memory(MB) 127.948  Ratio 1.73633
+  Level 0  Grids 4  Memory(MB) 34.5702  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 609  Memory(MB) 49.6402  Coverage 0.382973  Ratio 2.10528  Flagged 0  Active 6425224
+  Level 2  Grids 1395  Memory(MB) 23.996  Coverage 0.0338301  Ratio 1.90515  Flagged 0  Active 4540600
+  Level 3  Grids 1162  Memory(MB) 12.0125  Coverage 0.00173023  Ratio 1.62536  Flagged 0  Active 1857824
+  Level 4  Grids 889  Memory(MB) 7.7293  Coverage 8.94684e-05  Ratio 1.36253  Flagged 0  Active 768528
+
+Cycle 182  Time 41.733124006162  MaxDepth 4  Grids 4137  Memory(MB) 127.948  Ratio 1.73796
+  Level 0  Grids 4  Memory(MB) 33.5741  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 601  Memory(MB) 49.7514  Coverage 0.38851  Ratio 2.16156  Flagged 0  Active 6518112
+  Level 2  Grids 1407  Memory(MB) 24.419  Coverage 0.034454  Ratio 1.91169  Flagged 0  Active 4624336
+  Level 3  Grids 1207  Memory(MB) 12.1039  Coverage 0.00170271  Ratio 1.60601  Flagged 0  Active 1828272
+  Level 4  Grids 918  Memory(MB) 8.09987  Coverage 9.45246e-05  Ratio 1.36672  Flagged 0  Active 811960
+
+Cycle 183  Time 42.67032636766  MaxDepth 4  Grids 4159  Memory(MB) 127.948  Ratio 1.74551
+  Level 0  Grids 4  Memory(MB) 33.1695  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 604  Memory(MB) 49.1945  Coverage 0.386713  Ratio 2.09862  Flagged 0  Active 6487960
+  Level 2  Grids 1410  Memory(MB) 24.5988  Coverage 0.0349034  Ratio 1.95596  Flagged 0  Active 4684656
+  Level 3  Grids 1230  Memory(MB) 12.6345  Coverage 0.00176776  Ratio 1.59538  Flagged 0  Active 1898120
+  Level 4  Grids 911  Memory(MB) 8.35087  Coverage 9.49167e-05  Ratio 1.38725  Flagged 0  Active 815328
+
+Cycle 184  Time 43.628493310328  MaxDepth 4  Grids 4171  Memory(MB) 127.948  Ratio 1.76572
+  Level 0  Grids 4  Memory(MB) 33.1649  Coverage 1  Ratio 2  Flagged 0  Active 2097152
+  Level 1  Grids 612  Memory(MB) 48.3077  Coverage 0.381693  Ratio 2.25806  Flagged 0  Active 6403744
+  Level 2  Grids 1407  Memory(MB) 24.9408  Coverage 0.0347869  Ratio 1.94127  Flagged 0  Active 4669016
+  Level 3  Grids 1226  Memory(MB) 12.6719  Coverage 0.00180557  Ratio 1.62303  Flagged 0  Active 1938712
+  Level 4  Grids 922  Memory(MB) 8.86287  Coverage 0.000102337  Ratio 1.35975  Flagged 0  Active 879064
+
