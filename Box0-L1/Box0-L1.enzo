@@ -29,14 +29,21 @@ CosmologyHubbleConstantNow               = 0.674     // in 100 km/s/Mpc
 CosmologyComovingBoxSize                 = 1    // in Mpc/h
 CosmologyMaxExpansionRate                = 0.015   // maximum allowed delta(a)/a
 CosmologyInitialRedshift                 = 99      //
-CosmologyFinalRedshift                   = 6       //
+CosmologyFinalRedshift                   = 10       //
 GravitationalConstant                    = 1       // this must be true for cosmology
 #
 #
 ParallelRootGridIO                       = 1
 ParallelParticleIO                       = 1
 PartitionNestedGrids                     = 1
-CosmologySimulationNumberOfInitialGrids  = 1
+CosmologySimulationNumberOfInitialGrids  = 2
+CosmologySimulationGridDimension[1]      =               44               44               44
+CosmologySimulationGridLeftEdge[1]       =         0.421875        0.4140625          0.40625
+CosmologySimulationGridRightEdge[1]      =          0.59375        0.5859375         0.578125
+CosmologySimulationGridLevel[1]          = 1
+
+RefineRegionLeftEdge                     =        0.4390625          0.43125        0.4234375
+RefineRegionRightEdge                     =        0.5765625          0.56875        0.5609375
 
 dtDataDump             = 10.0
 CosmologyOutputRedshift[0] = 30.0
