@@ -36,12 +36,18 @@ GravitationalConstant                    = 1       // this must be true for cosm
 ParallelRootGridIO                       = 1
 ParallelParticleIO                       = 1
 PartitionNestedGrids                     = 1
-CosmologySimulationNumberOfInitialGrids  = 2
-CosmologySimulationGridDimension[1]      =               44               44               44
-CosmologySimulationGridLeftEdge[1]       =         0.421875        0.4140625          0.40625
-CosmologySimulationGridRightEdge[1]      =          0.59375        0.5859375         0.578125
+CosmologySimulationNumberOfInitialGrids  = 3
+CosmologySimulationGridDimension[1]      =               54               54               54
+CosmologySimulationGridLeftEdge[1]       =          0.40625        0.3984375         0.390625
+CosmologySimulationGridRightEdge[1]      =        0.6171875         0.609375        0.6015625
 CosmologySimulationGridLevel[1]          = 1
-
+CosmologySimulationGridDimension[2]      =               88               88               88
+CosmologySimulationGridLeftEdge[2]       =         0.421875        0.4140625          0.40625
+CosmologySimulationGridRightEdge[2]      =          0.59375        0.5859375         0.578125
+CosmologySimulationGridLevel[2]          = 2
+#
+# region allowed for further refinement
+#
 RefineRegionLeftEdge                     =        0.4390625          0.43125        0.4234375
 RefineRegionRightEdge                     =        0.5765625          0.56875        0.5609375
 
