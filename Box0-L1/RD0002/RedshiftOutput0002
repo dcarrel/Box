@@ -1,9 +1,9 @@
 InitialCycleNumber  = 151
-InitialTime         = 22.374633700269
+InitialTime         = 22.37464589966
 InitialCPUTime      = 0
 
 CheckpointRestart   = 0
-StopTime            = 22.374633700269
+StopTime            = 44.041104590648
 StopCycle           = 100000
 StopSteps           = 10000
 StopCPUTime         = 2.592e+06
@@ -593,11 +593,11 @@ CosmologyOmegaRadiationNow  = 0
 CosmologyComovingBoxSize    = 1
 CosmologyMaxExpansionRate   = 0.015
 CosmologyInitialRedshift    = 99
-CosmologyFinalRedshift      = 10
+CosmologyFinalRedshift      = 6
 CosmologyTableNumberOfBins  = 1000
 CosmologyTableLogaInitial   = -6
 CosmologyTableLogaFinal     = 0
-CosmologyCurrentRedshift    = 10
+CosmologyCurrentRedshift    = 9.9999959994592
 
 dtPhoton                                  = 0
 RadiativeTransferLoadBalance              = 0
@@ -653,8 +653,8 @@ UseMagneticSupernovaFeedback = 0
 MagneticSupernovaRadius = 300
 MagneticSupernovaEnergy = 1e+51
 MagneticSupernovaDuration = 50000
-CurrentTimeIdentifier = 1625524728
-MetaDataSimulationUUID          = ccc3b396-0453-4488-bcd6-879534faf2b7
-MetaDataDatasetUUID             = 5c02d273-afc1-4da4-a5fe-a10ca9307e13
+CurrentTimeIdentifier = 1625526255
+MetaDataSimulationUUID          = 3cdd5c07-14e8-4994-80fa-c8cf236c5f0e
+MetaDataDatasetUUID             = fd6bfd8d-ec0f-4dc0-a24f-c8fba3bb0e9c
 VersionNumber              = 2.600000
 
