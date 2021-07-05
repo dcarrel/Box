@@ -37,15 +37,15 @@ ParallelRootGridIO                       = 1
 ParallelParticleIO                       = 1
 PartitionNestedGrids                     = 1
 CosmologySimulationNumberOfInitialGrids  = 2
-CosmologySimulationGridDimension[1]      =               44               44               44
-CosmologySimulationGridLeftEdge[1]       =         0.421875        0.4140625          0.40625
-CosmologySimulationGridRightEdge[1]      =          0.59375        0.5859375         0.578125
+CosmologySimulationGridDimension[1]      =               40               40               40
+CosmologySimulationGridLeftEdge[1]       =         0.421875         0.421875         0.421875
+CosmologySimulationGridRightEdge[1]      =         0.578125         0.578125         0.578125
 CosmologySimulationGridLevel[1]          = 1
 #
 # region allowed for further refinement
 #
-RefineRegionLeftEdge                     =        0.4390625          0.43125        0.4234375
-RefineRegionRightEdge                     =        0.5765625          0.56875        0.5609375
+RefineRegionLeftEdge                     =           0.4375           0.4375           0.4375
+RefineRegionRightEdge                     =           0.5625           0.5625           0.5625
 
 #
 # must-refine particle parameters
