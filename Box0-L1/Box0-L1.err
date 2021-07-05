@@ -1,0 +1,366 @@
+
+Lmod is automatically replacing "phdf5/1.10.4" with "hdf5/1.10.4".
+
+
+Lmod is automatically replacing "impi/18.0.2" with "mvapich2/2.3.6".
+
+warning: the following parameter line was not interpreted:
+GreensFunctionMaxNumber   = 100
+Global Dir set to .
+CosmologySimulation: DualEnergyFormalism is off!
+CosmologySimulation: DualEnergyFormalism is off!
+CosmologySimulation: DualEnergyFormalism is off!
+CosmologySimulation: DualEnergyFormalism is off!
+CosmologySimulation: DualEnergyFormalism is off!
+CosmologySimulation: DualEnergyFormalism is off!
+CosmologySimulation: DualEnergyFormalism is off!
+CosmologySimulation: DualEnergyFormalism is off!
+CosmologySimulation: DualEnergyFormalism is off!
+CosmologySimulation: DualEnergyFormalism is off!
+CosmologySimulation: DualEnergyFormalism is off!
+CosmologySimulation: DualEnergyFormalism is off!
+InitializeExternalBoundaryFace
+SimpleConstantBoundary TRUE
+End of set exterior
+ENZO_layout 2 x 2 x 3
+ENZO_layout 2 x 2 x 3
+
+
+
+*********************************************
+NestedCosmologySimulationInitializeGrid: WARNING!
+ParallelParticleIO or ParallelRootGridIO are ON and
+you are not manually setting particle mass.  You want
+to double-check that particle masses are being 
+calculated correctly!
+Your particle mass is being calculated as:  1
+
+*********************************************
+
+
+
+
+
+*********************************************
+NestedCosmologySimulationInitializeGrid: WARNING!
+ParallelParticleIO or ParallelRootGridIO are ON and
+you are not manually setting particle mass.  You want
+to double-check that particle masses are being 
+calculated correctly!
+Your particle mass is being calculated as:  1
+
+*********************************************
+
+
+Successfully read in parameter file Box0-L1.enzo.
+INITIALIZATION TIME =   8.83745193e-01
+INITIALDT :::::::::::   0.00000000e+00
+Continuation Flag = 1
+dt, Initialdt: 0.0183712 0 
+TopGrid dt = 1.837115e-02     time = 0.81651206650085    cycle = 0    z = 99
+dt, Initialdt: 0.0187845 0 
+TopGrid dt = 1.878449e-02     time = 0.83488321959675    cycle = 1    z = 97.52760317717
+dt, Initialdt: 0.0192071 0 
+TopGrid dt = 1.920714e-02     time = 0.85366771432467    cycle = 2    z = 96.076885877015
+dt, Initialdt: 0.0196393 0 
+TopGrid dt = 1.963929e-02     time = 0.87287485061897    cycle = 3    z = 94.647528890919
+dt, Initialdt: 0.0200812 0 
+TopGrid dt = 2.008116e-02     time = 0.89251413765389    cycle = 4    z = 93.239217710285
+dt, Initialdt: 0.020533 0 
+TopGrid dt = 2.053298e-02     time = 0.91259529855103    cycle = 5    z = 91.85164245733
+dt, Initialdt: 0.020995 0 
+TopGrid dt = 2.099496e-02     time = 0.93312827519279    cycle = 6    z = 90.484497816905
+dt, Initialdt: 0.0214673 0 
+TopGrid dt = 2.146733e-02     time = 0.95412323314403    cycle = 7    z = 89.137482969312
+dt, Initialdt: 0.0219503 0 
+TopGrid dt = 2.195034e-02     time = 0.97559056668441    cycle = 8    z = 87.810301524113
+dt, Initialdt: 0.0224442 0 
+TopGrid dt = 2.244421e-02     time = 0.997540903954    cycle = 9    z = 86.502661454915
+dt, Initialdt: 0.0229492 0 
+TopGrid dt = 2.294919e-02     time = 1.0199851122146    cycle = 10    z = 85.214275035114
+dt, Initialdt: 0.0234655 0 
+TopGrid dt = 2.346554e-02     time = 1.0429343032296    cycle = 11    z = 83.944858774585
+dt, Initialdt: 0.0239935 0 
+TopGrid dt = 2.399350e-02     time = 1.0663998387641    cycle = 12    z = 82.694133357302
+dt, Initialdt: 0.0245333 0 
+TopGrid dt = 2.453334e-02     time = 1.0903933362101    cycle = 13    z = 81.461823579884
+dt, Initialdt: 0.0250853 0 
+TopGrid dt = 2.508532e-02     time = 1.1149266743368    cycle = 14    z = 80.247658289719
+dt, Initialdt: 0.0256497 0 
+TopGrid dt = 2.564973e-02     time = 1.1400119991719    cycle = 15    z = 79.051370324652
+dt, Initialdt: 0.0262268 0 
+TopGrid dt = 2.622684e-02     time = 1.1656617300148    cycle = 16    z = 77.872696463752
+dt, Initialdt: 0.0268169 0 
+TopGrid dt = 2.681692e-02     time = 1.1918885655813    cycle = 17    z = 76.711377357495
+dt, Initialdt: 0.0274203 0 
+TopGrid dt = 2.742029e-02     time = 1.2187054902911    cycle = 18    z = 75.567157475009
+dt, Initialdt: 0.0280372 0 
+TopGrid dt = 2.803723e-02     time = 1.2461257806956    cycle = 19    z = 74.439785047855
+dt, Initialdt: 0.0286681 0 
+TopGrid dt = 2.866805e-02     time = 1.2741630120497    cycle = 20    z = 73.329012014625
+dt, Initialdt: 0.0293131 0 
+TopGrid dt = 2.931307e-02     time = 1.3028310650317    cycle = 21    z = 72.234593966358
+dt, Initialdt: 0.0299726 0 
+TopGrid dt = 2.997259e-02     time = 1.3321441326142    cycle = 22    z = 71.156290092769
+dt, Initialdt: 0.030647 0 
+TopGrid dt = 3.064696e-02     time = 1.3621167270897    cycle = 23    z = 70.093863129254
+dt, Initialdt: 0.0313365 0 
+TopGrid dt = 3.133650e-02     time = 1.3927636872537    cycle = 24    z = 69.047079304688
+dt, Initialdt: 0.0320416 0 
+TopGrid dt = 3.204155e-02     time = 1.4241001857501    cycle = 25    z = 68.015708289986
+dt, Initialdt: 0.0327625 0 
+TopGrid dt = 3.276247e-02     time = 1.4561417365815    cycle = 26    z = 66.999523147424
+dt, Initialdt: 0.0334996 0 
+TopGrid dt = 3.349960e-02     time = 1.4889042027877    cycle = 27    z = 65.998300280703
+dt, Initialdt: 0.0342533 0 
+TopGrid dt = 3.425332e-02     time = 1.522403804298    cycle = 28    z = 65.011819382278
+dt, Initialdt: 0.035024 0 
+TopGrid dt = 3.502400e-02     time = 1.5566571259621    cycle = 29    z = 64.039863390821
+dt, Initialdt: 0.035812 0 
+TopGrid dt = 3.581202e-02     time = 1.5916811257572    cycle = 30    z = 63.082218445977
+dt, Initialdt: 0.0366178 0 
+TopGrid dt = 3.661776e-02     time = 1.6274931431778    cycle = 31    z = 62.138673832331
+dt, Initialdt: 0.0374416 0 
+TopGrid dt = 3.744164e-02     time = 1.6641109078204    cycle = 32    z = 61.209021937033
+dt, Initialdt: 0.0382841 0 
+TopGrid dt = 3.828405e-02     time = 1.7015525481592    cycle = 33    z = 60.293058204122
+dt, Initialdt: 0.0391454 0 
+TopGrid dt = 3.914542e-02     time = 1.7398366005179    cycle = 34    z = 59.390581089514
+dt, Initialdt: 0.0400262 0 
+TopGrid dt = 4.002616e-02     time = 1.7789820182445    cycle = 35    z = 58.501392016654
+dt, Initialdt: 0.0409267 0 
+TopGrid dt = 4.092672e-02     time = 1.8190081810915    cycle = 36    z = 57.625295332826
+dt, Initialdt: 0.0418475 0 
+TopGrid dt = 4.184755e-02     time = 1.8599349048072    cycle = 37    z = 56.7620982661
+dt, Initialdt: 0.0427891 0 
+TopGrid dt = 4.278909e-02     time = 1.9017824509424    cycle = 38    z = 55.911610882915
+dt, Initialdt: 0.0437518 0 
+TopGrid dt = 4.375181e-02     time = 1.9445715368786    cycle = 39    z = 55.073646046289
+dt, Initialdt: 0.0447362 0 
+TopGrid dt = 4.473619e-02     time = 1.9883233460798    cycle = 40    z = 54.248019374642
+dt, Initialdt: 0.0457427 0 
+TopGrid dt = 4.574272e-02     time = 2.0330595385767    cycle = 41    z = 53.434549201225
+dt, Initialdt: 0.0467719 0 
+TopGrid dt = 4.677190e-02     time = 2.078802261685    cycle = 42    z = 52.633056526714
+dt, Initialdt: 0.0478242 0 
+TopGrid dt = 4.782423e-02     time = 2.1255741609753    cycle = 43    z = 51.843364998041
+dt, Initialdt: 0.0489002 0 
+TopGrid dt = 4.890024e-02     time = 2.1733983914661    cycle = 44    z = 51.065300858742
+dt, Initialdt: 0.0500005 0 
+TopGrid dt = 5.000045e-02     time = 2.222298629081    cycle = 45    z = 50.298692907474
+dt, Initialdt: 0.0511254 0 
+TopGrid dt = 5.112542e-02     time = 2.2722990823688    cycle = 46    z = 49.54337246366
+dt, Initialdt: 0.0522757 0 
+TopGrid dt = 5.227570e-02     time = 2.3234245044821    cycle = 47    z = 48.79917333037
+dt, Initialdt: 0.0534519 0 
+TopGrid dt = 5.345186e-02     time = 2.3757002054254    cycle = 48    z = 48.065931757757
+dt, Initialdt: 0.0546545 0 
+TopGrid dt = 5.465448e-02     time = 2.4291520645781    cycle = 49    z = 47.343486407025
+dt, Initialdt: 0.0558842 0 
+TopGrid dt = 5.588416e-02     time = 2.4838065434992    cycle = 50    z = 46.631678314926
+dt, Initialdt: 0.0571415 0 
+TopGrid dt = 5.714150e-02     time = 2.5396906990194    cycle = 51    z = 45.930350858786
+dt, Initialdt: 0.0584271 0 
+TopGrid dt = 5.842713e-02     time = 2.5968321966278    cycle = 52    z = 45.239349722044
+dt, Initialdt: 0.0597417 0 
+TopGrid dt = 5.974168e-02     time = 2.6552593241582    cycle = 53    z = 44.558522860291
+dt, Initialdt: 0.0610858 0 
+TopGrid dt = 6.108581e-02     time = 2.7150010057844    cycle = 54    z = 43.887720467822
+dt, Initialdt: 0.0624602 0 
+TopGrid dt = 6.246018e-02     time = 2.7760868163285    cycle = 55    z = 43.22679494467
+dt, Initialdt: 0.0638655 0 
+TopGrid dt = 6.386547e-02     time = 2.838546995891    cycle = 56    z = 42.575600849483
+dt, Initialdt: 0.0653024 0 
+TopGrid dt = 6.530237e-02     time = 2.9024124648421    cycle = 57    z = 41.933994908876
+dt, Initialdt: 0.0667716 0 
+TopGrid dt = 6.677161e-02     time = 2.9677148390595    cycle = 58    z = 41.301835948495
+dt, Initialdt: 0.0682739 0 
+TopGrid dt = 6.827389e-02     time = 3.0344864455886    cycle = 59    z = 40.678984871256
+dt, Initialdt: 0.06981 0 
+TopGrid dt = 6.980998e-02     time = 3.1027603386339    cycle = 60    z = 40.065304628137
+dt, Initialdt: 0.0713806 0 
+TopGrid dt = 7.138062e-02     time = 3.1725703159075    cycle = 61    z = 39.460660188029
+dt, Initialdt: 0.0729866 0 
+TopGrid dt = 7.298660e-02     time = 3.2439509353435    cycle = 62    z = 38.864918508016
+dt, Initialdt: 0.0746287 0 
+TopGrid dt = 7.462870e-02     time = 3.3169375321885    cycle = 63    z = 38.27794850411
+dt, Initialdt: 0.0763078 0 
+TopGrid dt = 7.630775e-02     time = 3.391566236475    cycle = 64    z = 37.6996210224
+dt, Initialdt: 0.0780246 0 
+TopGrid dt = 7.802458e-02     time = 3.467873990887    cycle = 65    z = 37.129808810642
+dt, Initialdt: 0.07978 0 
+TopGrid dt = 7.978003e-02     time = 3.5458985690266    cycle = 66    z = 36.568386490253
+dt, Initialdt: 0.081575 0 
+TopGrid dt = 8.157496e-02     time = 3.6256785940901    cycle = 67    z = 36.015230528726
+dt, Initialdt: 0.0834103 0 
+TopGrid dt = 8.341028e-02     time = 3.7072535579629    cycle = 68    z = 35.470219212451
+dt, Initialdt: 0.0852869 0 
+TopGrid dt = 8.528689e-02     time = 3.7906638407434    cycle = 69    z = 34.93323261673
+dt, Initialdt: 0.0872057 0 
+TopGrid dt = 8.720571e-02     time = 3.8759507307146    cycle = 70    z = 34.404152567872
+dt, Initialdt: 0.0891677 0 
+TopGrid dt = 8.916770e-02     time = 3.9631564448095    cycle = 71    z = 33.882862669143
+dt, Initialdt: 0.0911738 0 
+TopGrid dt = 9.117383e-02     time = 4.0523241493442    cycle = 72    z = 33.369248218542
+dt, Initialdt: 0.0932251 0 
+TopGrid dt = 9.322509e-02     time = 4.143497981418    cycle = 73    z = 32.863196202941
+dt, Initialdt: 0.0953225 0 
+TopGrid dt = 9.532249e-02     time = 4.2367230707256    cycle = 74    z = 32.36459527322
+dt, Initialdt: 0.0974671 0 
+TopGrid dt = 9.746708e-02     time = 4.3320455618569    cycle = 75    z = 31.873335719766
+dt, Initialdt: 0.0996599 0 
+TopGrid dt = 9.965990e-02     time = 4.4295126370978    cycle = 76    z = 31.389309448331
+dt, Initialdt: 0.101902 0 
+TopGrid dt = 1.019021e-01     time = 4.52917253974    cycle = 77    z = 30.912409956251
+dt, Initialdt: 0.104195 0 
+TopGrid dt = 9.952516e-02     time = 4.6310745979139    cycle = 78    z = 30.442532309012
+Continuation Flag = 1
+dt, Initialdt: 0.106434 0 
+TopGrid dt = 1.064338e-01     time = 4.7305997551349    cycle = 79    z = 29.999956523534
+dt, Initialdt: 0.108828 0 
+TopGrid dt = 1.088283e-01     time = 4.8370335167126    cycle = 80    z = 29.543513793973
+dt, Initialdt: 0.111277 0 
+TopGrid dt = 1.112767e-01     time = 4.9458618105192    cycle = 81    z = 29.093791704317
+dt, Initialdt: 0.11378 0 
+TopGrid dt = 1.137802e-01     time = 5.05713850008    cycle = 82    z = 28.650691300061
+dt, Initialdt: 0.11634 0 
+TopGrid dt = 1.163399e-01     time = 5.1709186599708    cycle = 83    z = 28.214115083714
+dt, Initialdt: 0.118957 0 
+TopGrid dt = 1.189573e-01     time = 5.2872586030058    cycle = 84    z = 27.783966967525
+dt, Initialdt: 0.121634 0 
+TopGrid dt = 1.216335e-01     time = 5.4062159081951    cycle = 85    z = 27.360152316935
+dt, Initialdt: 0.12437 0 
+TopGrid dt = 1.243700e-01     time = 5.5278494489366    cycle = 86    z = 26.942577888059
+dt, Initialdt: 0.127168 0 
+TopGrid dt = 1.271680e-01     time = 5.6522194220766    cycle = 87    z = 26.531151799956
+dt, Initialdt: 0.130029 0 
+TopGrid dt = 1.300289e-01     time = 5.7793873776718    cycle = 88    z = 26.125783524544
+dt, Initialdt: 0.132954 0 
+TopGrid dt = 1.329541e-01     time = 5.9094162493531    cycle = 89    z = 25.72638386668
+dt, Initialdt: 0.135945 0 
+TopGrid dt = 1.359452e-01     time = 6.0423703853676    cycle = 90    z = 25.332864944538
+dt, Initialdt: 0.139004 0 
+TopGrid dt = 1.390035e-01     time = 6.1783155803127    cycle = 91    z = 24.945140170271
+dt, Initialdt: 0.142131 0 
+TopGrid dt = 1.421306e-01     time = 6.3173191075769    cycle = 92    z = 24.563124230958
+dt, Initialdt: 0.145328 0 
+TopGrid dt = 1.453281e-01     time = 6.4594497525049    cycle = 93    z = 24.186733069835
+dt, Initialdt: 0.148597 0 
+TopGrid dt = 1.485975e-01     time = 6.6047778463005    cycle = 94    z = 23.815883867798
+dt, Initialdt: 0.15194 0 
+TopGrid dt = 1.519403e-01     time = 6.7533753006842    cycle = 95    z = 23.450495025184
+dt, Initialdt: 0.155358 0 
+TopGrid dt = 1.553584e-01     time = 6.905315643323    cycle = 96    z = 23.090486143812
+dt, Initialdt: 0.158853 0 
+TopGrid dt = 1.588533e-01     time = 7.0606740540471    cycle = 97    z = 22.735778009298
+dt, Initialdt: 0.162427 0 
+TopGrid dt = 1.624269e-01     time = 7.2195274018726    cycle = 98    z = 22.386292522064
+dt, Initialdt: 0.166081 0 
+TopGrid dt = 1.660808e-01     time = 7.3819542833831    cycle = 99    z = 22.041952827303
+dt, Initialdt: 0.169817 0 
+TopGrid dt = 1.698168e-01     time = 7.5480350604634    cycle = 100    z = 21.702683161676
+dt, Initialdt: 0.173637 0 
+TopGrid dt = 1.736369e-01     time = 7.7178519002334    cycle = 101    z = 21.368408874065
+dt, Initialdt: 0.177543 0 
+TopGrid dt = 1.775429e-01     time = 7.8914888155035    cycle = 102    z = 21.039056412519
+dt, Initialdt: 0.181537 0 
+TopGrid dt = 1.815367e-01     time = 8.0690317060921    cycle = 103    z = 20.71455330808
+dt, Initialdt: 0.18562 0 
+TopGrid dt = 1.856203e-01     time = 8.2505684010585    cycle = 104    z = 20.394828158834
+dt, Initialdt: 0.189796 0 
+TopGrid dt = 4.813943e-02     time = 8.4361887018696    cycle = 105    z = 20.079810614198
+Continuation Flag = 1
+dt, Initialdt: 0.190879 0 
+TopGrid dt = 1.908786e-01     time = 8.4843281330309    cycle = 106    z = 19.999992056688
+dt, Initialdt: 0.195172 0 
+TopGrid dt = 1.951722e-01     time = 8.675206719328    cycle = 107    z = 19.690788064364
+dt, Initialdt: 0.199562 0 
+TopGrid dt = 1.995624e-01     time = 8.8703789552133    cycle = 108    z = 19.386136764962
+dt, Initialdt: 0.204051 0 
+TopGrid dt = 2.040513e-01     time = 9.0699413745622    cycle = 109    z = 19.085971054515
+dt, Initialdt: 0.208641 0 
+TopGrid dt = 2.086411e-01     time = 9.2739926793584    cycle = 110    z = 18.79022494681
+dt, Initialdt: 0.213334 0 
+TopGrid dt = 2.133341e-01     time = 9.4826337862058    cycle = 111    z = 18.498833371625
+dt, Initialdt: 0.218133 0 
+TopGrid dt = 2.181326e-01     time = 9.6959678766021    cycle = 112    z = 18.211732212726
+dt, Initialdt: 0.223039 0 
+TopGrid dt = 2.230389e-01     time = 9.9141004475717    cycle = 113    z = 17.928858297942
+dt, Initialdt: 0.228056 0 
+TopGrid dt = 2.280555e-01     time = 10.137139363349    cycle = 114    z = 17.650149385263
+dt, Initialdt: 0.233185 0 
+TopGrid dt = 2.331849e-01     time = 10.365194908193    cycle = 115    z = 17.375544149147
+dt, Initialdt: 0.23843 0 
+TopGrid dt = 2.180540e-01     time = 10.598379840365    cycle = 116    z = 17.104982167028
+Continuation Flag = 1
+dt, Initialdt: 0.243334 0 
+TopGrid dt = 2.433339e-01     time = 10.816433869723    cycle = 117    z = 16.860801915071
+dt, Initialdt: 0.248807 0 
+TopGrid dt = 2.488067e-01     time = 11.059767758611    cycle = 118    z = 16.597818924508
+dt, Initialdt: 0.254402 0 
+TopGrid dt = 2.544024e-01     time = 11.308574412753    cycle = 119    z = 16.338708061264
+dt, Initialdt: 0.260124 0 
+TopGrid dt = 2.601239e-01     time = 11.562976819304    cycle = 120    z = 16.083412312155
+dt, Initialdt: 0.265974 0 
+TopGrid dt = 2.659740e-01     time = 11.823100722374    cycle = 121    z = 15.831875503486
+dt, Initialdt: 0.271955 0 
+TopGrid dt = 2.719555e-01     time = 12.08907468435    cycle = 122    z = 15.584042288692
+dt, Initialdt: 0.278071 0 
+TopGrid dt = 2.780714e-01     time = 12.361030148555    cycle = 123    z = 15.339858136159
+dt, Initialdt: 0.284325 0 
+TopGrid dt = 2.843246e-01     time = 12.639101503259    cycle = 124    z = 15.099269210409
+dt, Initialdt: 0.290718 0 
+TopGrid dt = 2.907184e-01     time = 12.923426149905    cycle = 125    z = 14.862222663069
+dt, Initialdt: 0.297256 0 
+TopGrid dt = 2.972558e-01     time = 13.214144564963    cycle = 126    z = 14.628666344648
+dt, Initialdt: 0.30394 0 
+TopGrid dt = 3.039400e-01     time = 13.511400370132    cycle = 127    z = 14.398548864761
+dt, Initialdt: 0.310774 0 
+TopGrid dt = 3.107744e-01     time = 13.815340402286    cycle = 128    z = 14.171819589719
+dt, Initialdt: 0.317762 0 
+TopGrid dt = 3.177622e-01     time = 14.12611478469    cycle = 129    z = 13.948428631388
+dt, Initialdt: 0.324907 0 
+TopGrid dt = 3.249070e-01     time = 14.443876999749    cycle = 130    z = 13.728326836213
+dt, Initialdt: 0.332212 0 
+TopGrid dt = 3.322121e-01     time = 14.768783963296    cycle = 131    z = 13.511465774406
+dt, Initialdt: 0.339681 0 
+TopGrid dt = 3.396813e-01     time = 15.100996100475    cycle = 132    z = 13.297797729294
+dt, Initialdt: 0.347318 0 
+TopGrid dt = 3.473182e-01     time = 15.440677423232    cycle = 133    z = 13.087275686815
+dt, Initialdt: 0.355126 0 
+TopGrid dt = 3.551265e-01     time = 15.787995609447    cycle = 134    z = 12.879853325184
+dt, Initialdt: 0.36311 0 
+TopGrid dt = 3.631100e-01     time = 16.143122083744    cycle = 135    z = 12.675485004695
+dt, Initialdt: 0.371273 0 
+TopGrid dt = 3.712727e-01     time = 16.506232099993    cycle = 136    z = 12.474125757686
+dt, Initialdt: 0.379619 0 
+TopGrid dt = 3.796186e-01     time = 16.877504825557    cycle = 137    z = 12.27573125327
+dt, Initialdt: 0.388152 0 
+TopGrid dt = 3.881517e-01     time = 17.257123428379    cycle = 138    z = 12.080257712103
+dt, Initialdt: 0.396876 0 
+TopGrid dt = 3.968763e-01     time = 17.645275169433    cycle = 139    z = 11.887662262182
+dt, Initialdt: 0.405797 0 
+TopGrid dt = 4.057966e-01     time = 18.04215148099    cycle = 140    z = 11.697902526012
+dt, Initialdt: 0.414917 0 
+TopGrid dt = 4.149169e-01     time = 18.447948063844    cycle = 141    z = 11.510936750094
+dt, Initialdt: 0.424242 0 
+TopGrid dt = 4.242418e-01     time = 18.862864980683    cycle = 142    z = 11.326723795749
+dt, Initialdt: 0.433776 0 
+TopGrid dt = 4.337757e-01     time = 19.287106751382    cycle = 143    z = 11.14522313006
+dt, Initialdt: 0.443523 0 
+TopGrid dt = 4.435234e-01     time = 19.720882450243    cycle = 144    z = 10.966394816962
+dt, Initialdt: 0.453489 0 
+TopGrid dt = 4.534895e-01     time = 20.164405805212    cycle = 145    z = 10.790199508454
+dt, Initialdt: 0.463679 0 
+TopGrid dt = 1.985366e-01     time = 20.617895299103    cycle = 146    z = 10.616598435948
+Continuation Flag = 1
+dt, Initialdt: 0.46814 0 
+TopGrid dt = 4.681397e-01     time = 20.816431918178    cycle = 147    z = 10.542584116676
+dt, Initialdt: 0.478657 0 
+TopGrid dt = 4.786574e-01     time = 21.284571617511    cycle = 148    z = 10.372628718702
+dt, Initialdt: 0.489411 0 
+TopGrid dt = 4.894107e-01     time = 21.76322904195    cycle = 149    z = 10.205175668241
+dt, Initialdt: 0.500405 0 
+TopGrid dt = 1.219939e-01     time = 22.252639786721    cycle = 150    z = 10.040188120163
+Continuation Flag = 1
+Successful run, exiting.

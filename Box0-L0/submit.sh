@@ -13,4 +13,4 @@ module load hdf5
 module load mvapich2
 
 cd $SLURM_SUBMIT_DIR
-ibrun ./enzo.exe -d Box0-L0.enzo
+ibrun ./$WORK2/Box0/enzo.exe -d Box0-L0.enzo
