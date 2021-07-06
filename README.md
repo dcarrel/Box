@@ -17,8 +17,7 @@
 ![](https://github.com/dcarrel1/Box/blob/main/Box0-L1/reduced.png)
 |Halo ID|Virial Mass (Msun)|Virial Temperature (K)| x (Mpc/h) | y (Mpc/h)| z (Mpc/h)|
 |---|--------|-----|--------|--------|--------|
-|9|9.104e07|14310|0.498701|0.521129|0.476461|
-|50|6.270e07|11160|0.498631|0.513432|0.455885|
+|71|9.399e07|14618|0.481833|0.484715|0.505253|
 
 
 # Box0-L2
