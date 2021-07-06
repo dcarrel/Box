@@ -26,7 +26,6 @@ Zooming on on 605:
 ![](https://github.com/dcarrel1/Box/blob/main/Box0-L2/reduced.png)
 |Halo ID|Virial Mass (Msun)|Virial Temperature (K)| x (Mpc/h) | y (Mpc/h)| z (Mpc/h)|
 |---|--------|-----|--------|--------|--------|
-|9|9.104e07|14310|0.498701|0.521129|0.476461|
-|50|6.270e07|11160|0.498631|0.513432|0.455885|
+|200|9.404e07|14623|0.481449|0.476923|0.506188|
 
 
