@@ -1,9 +1,9 @@
 InitialCycleNumber  = 151
-InitialTime         = 22.37464589966
+InitialTime         = 22.374633700269
 InitialCPUTime      = 0
 
 CheckpointRestart   = 0
-StopTime            = 44.041104590648
+StopTime            = 22.374633700269
 StopCycle           = 100000
 StopSteps           = 10000
 StopCPUTime         = 2.592e+06
@@ -33,7 +33,7 @@ NewMovieParticleOn   = 0
 MovieDataField       = -99999 -99999 -99999 -99999 -99999 -99999 
 NewMovieDumpNumber   = 0
 NewMovieName         = MoviePack
-MovieTimestepCounter = 408
+MovieTimestepCounter = 414
 
 CycleLastRestartDump = 0
 CycleSkipRestartDump = 0
@@ -48,7 +48,7 @@ PythonReloadScript      = 0
 TimingCycleSkip             = 1
 CycleSkipGlobalDataDump = 0
 
-SubcycleNumber          = 408
+SubcycleNumber          = 414
 SubcycleSkipDataDump    = 0
 SubcycleLastDataDump    = 0
 OutputFirstTimeAtLevel = 0
@@ -593,11 +593,11 @@ CosmologyOmegaRadiationNow  = 0
 CosmologyComovingBoxSize    = 1
 CosmologyMaxExpansionRate   = 0.015
 CosmologyInitialRedshift    = 99
-CosmologyFinalRedshift      = 6
+CosmologyFinalRedshift      = 10
 CosmologyTableNumberOfBins  = 1000
 CosmologyTableLogaInitial   = -6
 CosmologyTableLogaFinal     = 0
-CosmologyCurrentRedshift    = 9.9999959994592
+CosmologyCurrentRedshift    = 10
 
 dtPhoton                                  = 0
 RadiativeTransferLoadBalance              = 0
@@ -653,8 +653,8 @@ UseMagneticSupernovaFeedback = 0
 MagneticSupernovaRadius = 300
 MagneticSupernovaEnergy = 1e+51
 MagneticSupernovaDuration = 50000
-CurrentTimeIdentifier = 1625526255
-MetaDataSimulationUUID          = 3cdd5c07-14e8-4994-80fa-c8cf236c5f0e
-MetaDataDatasetUUID             = fd6bfd8d-ec0f-4dc0-a24f-c8fba3bb0e9c
+CurrentTimeIdentifier = 1625539137
+MetaDataSimulationUUID          = 8b775bad-0750-49c5-9b80-49d425ed7335
+MetaDataDatasetUUID             = 86f25e1d-c39b-4ddd-857c-81aabde1f980
 VersionNumber              = 2.600000
 

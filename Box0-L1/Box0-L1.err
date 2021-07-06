@@ -7,23 +7,15 @@ Lmod is automatically replacing "impi/18.0.2" with "mvapich2/2.3.6".
 CosmologySimulation: DualEnergyFormalism is off!
 CosmologySimulation: DualEnergyFormalism is off!
 CosmologySimulation: DualEnergyFormalism is off!
-CosmologySimulation: DualEnergyFormalism is off!
-CosmologySimulation: DualEnergyFormalism is off!
 warning: the following parameter line was not interpreted:
 GreensFunctionMaxNumber   = 100
-CosmologySimulation: DualEnergyFormalism is off!
-CosmologySimulation: DualEnergyFormalism is off!
-CosmologySimulation: DualEnergyFormalism is off!
-CosmologySimulation: DualEnergyFormalism is off!
-CosmologySimulation: DualEnergyFormalism is off!
-CosmologySimulation: DualEnergyFormalism is off!
 Global Dir set to .
 CosmologySimulation: DualEnergyFormalism is off!
 InitializeExternalBoundaryFace
 SimpleConstantBoundary TRUE
 End of set exterior
-ENZO_layout 2 x 2 x 3
-ENZO_layout 2 x 2 x 3
+ENZO_layout 1 x 2 x 2
+ENZO_layout 1 x 2 x 2
 
 
 
@@ -53,7 +45,7 @@ Your particle mass is being calculated as:  1
 
 
 Successfully read in parameter file Box0-L1.enzo.
-INITIALIZATION TIME =   8.96655083e-01
+INITIALIZATION TIME =   1.45466423e+00
 INITIALDT :::::::::::   0.00000000e+00
 Continuation Flag = 1
 dt, Initialdt: 0.0183712 0 
@@ -361,79 +353,6 @@ TopGrid dt = 4.786574e-01     time = 21.284571617511    cycle = 148    z = 10.37
 dt, Initialdt: 0.489411 0 
 TopGrid dt = 4.894107e-01     time = 21.76322904195    cycle = 149    z = 10.205175668241
 dt, Initialdt: 0.500405 0 
-TopGrid dt = 1.220061e-01     time = 22.252639786721    cycle = 150    z = 10.040188120163
-Continuation Flag = 1
-dt, Initialdt: 0.503146 0 
-TopGrid dt = 5.031455e-01     time = 22.37464589966    cycle = 151    z = 9.9999959994592
-dt, Initialdt: 0.514447 0 
-TopGrid dt = 5.144472e-01     time = 22.877791418643    cycle = 152    z = 9.8380294833483
-dt, Initialdt: 0.526002 0 
-TopGrid dt = 5.260018e-01     time = 23.39223859778    cycle = 153    z = 9.6784476904688
-dt, Initialdt: 0.537815 0 
-TopGrid dt = 7.249040e-02     time = 23.918240416389    cycle = 154    z = 9.5212155080254
-Continuation Flag = 1
-dt, Initialdt: 0.539443 0 
-TopGrid dt = 5.394430e-01     time = 23.990730816803    cycle = 155    z = 9.4999978837935
-dt, Initialdt: 0.551557 0 
-TopGrid dt = 5.515569e-01     time = 24.530173791723    cycle = 156    z = 9.3453929924071
-dt, Initialdt: 0.563942 0 
-TopGrid dt = 5.639418e-01     time = 25.081730717932    cycle = 157    z = 9.1930643083755
-dt, Initialdt: 0.576604 0 
-TopGrid dt = 5.766037e-01     time = 25.645672558393    cycle = 158    z = 9.0429784176679
-dt, Initialdt: 0.589549 0 
-TopGrid dt = 5.895486e-01     time = 26.222276253991    cycle = 159    z = 8.8951022965792
-dt, Initialdt: 0.602783 0 
-TopGrid dt = 6.027828e-01     time = 26.811824858553    cycle = 160    z = 8.7494034077039
-dt, Initialdt: 0.616313 0 
-TopGrid dt = 6.163127e-01     time = 27.414607668261    cycle = 161    z = 8.6058496927814
-dt, Initialdt: 0.630145 0 
-TopGrid dt = 6.301447e-01     time = 28.030920353419    cycle = 162    z = 8.4644095656459
-dt, Initialdt: 0.644286 0 
-TopGrid dt = 6.442856e-01     time = 28.661065092595    cycle = 163    z = 8.3250519052814
-dt, Initialdt: 0.658742 0 
-TopGrid dt = 6.587421e-01     time = 29.305350709138    cycle = 164    z = 8.1877460489787
-dt, Initialdt: 0.673521 0 
-TopGrid dt = 6.735211e-01     time = 29.964092810096    cycle = 165    z = 8.0524617855933
-dt, Initialdt: 0.68863 0 
-TopGrid dt = 1.788160e-01     time = 30.637613927525    cycle = 166    z = 7.9191693489033
-Continuation Flag = 1
-dt, Initialdt: 0.692641 0 
-TopGrid dt = 6.926406e-01     time = 30.816429946315    cycle = 167    z = 7.8845978120125
-dt, Initialdt: 0.708175 0 
-TopGrid dt = 7.081755e-01     time = 31.509070557498    cycle = 168    z = 7.7537766085131
-dt, Initialdt: 0.724056 0 
-TopGrid dt = 7.240565e-01     time = 32.217246025184    cycle = 169    z = 7.6248814917294
-dt, Initialdt: 0.740291 0 
-TopGrid dt = 7.402911e-01     time = 32.941302486214    cycle = 170    z = 7.4978841008549
-dt, Initialdt: 0.756887 0 
-TopGrid dt = 7.568872e-01     time = 33.681593632225    cycle = 171    z = 7.3727564927491
-dt, Initialdt: 0.773853 0 
-TopGrid dt = 7.738526e-01     time = 34.438480863643    cycle = 172    z = 7.2494711357951
-dt, Initialdt: 0.791195 0 
-TopGrid dt = 7.911952e-01     time = 35.212333446058    cycle = 173    z = 7.1280009038478
-dt, Initialdt: 0.808923 0 
-TopGrid dt = 8.089233e-01     time = 36.003528668958    cycle = 174    z = 7.0083190702711
-dt, Initialdt: 0.827045 0 
-TopGrid dt = 8.270453e-01     time = 36.812452006783    cycle = 175    z = 6.8903993020639
-dt, Initialdt: 0.84557 0 
-TopGrid dt = 8.455695e-01     time = 37.639497282292    cycle = 176    z = 6.7742156540724
-dt, Initialdt: 0.864505 0 
-TopGrid dt = 8.645048e-01     time = 38.485066832182    cycle = 177    z = 6.6597425632885
-dt, Initialdt: 0.88386 0 
-TopGrid dt = 3.695121e-01     time = 39.34957167493    cycle = 178    z = 6.5469548432319
-Continuation Flag = 1
-dt, Initialdt: 0.892132 0 
-TopGrid dt = 8.921317e-01     time = 39.719083814833    cycle = 179    z = 6.499995340854
-dt, Initialdt: 0.912099 0 
-TopGrid dt = 2.052171e-01     time = 40.611215492765    cycle = 180    z = 6.3895592108605
-Continuation Flag = 1
-dt, Initialdt: 0.916691 0 
-TopGrid dt = 9.166914e-01     time = 40.816432586158    cycle = 181    z = 6.364724968963
-dt, Initialdt: 0.937202 0 
-TopGrid dt = 9.372024e-01     time = 41.733124006162    cycle = 182    z = 6.2562804932743
-dt, Initialdt: 0.958167 0 
-TopGrid dt = 9.581669e-01     time = 42.67032636766    cycle = 183    z = 6.1494326043689
-dt, Initialdt: 0.979595 0 
-TopGrid dt = 4.126113e-01     time = 43.628493310328    cycle = 184    z = 6.0441577938114
+TopGrid dt = 1.219939e-01     time = 22.252639786721    cycle = 150    z = 10.040188120163
 Continuation Flag = 1
 Successful run, exiting.
