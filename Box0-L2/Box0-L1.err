@@ -1,0 +1,14 @@
+
+Lmod is automatically replacing "phdf5/1.10.4" with "hdf5/1.10.4".
+
+
+Lmod is automatically replacing "impi/18.0.2" with "mvapich2/2.3.6".
+
+slurmstepd: error: *** JOB 8052185 ON c456-001 CANCELLED AT 2021-07-05T22:17:33 ***
+[c456-001.stampede2.tacc.utexas.edu:mpirun_rsh][signal_processor] Caught signal 15, killing job
+[c456-001.stampede2.tacc.utexas.edu:mpispawn_0][read_size] Unexpected End-Of-File on file descriptor 8. MPI process died?
+[c456-001.stampede2.tacc.utexas.edu:mpispawn_0][read_size] Unexpected End-Of-File on file descriptor 8. MPI process died?
+[c456-001.stampede2.tacc.utexas.edu:mpispawn_0][handle_mt_peer] Error while reading PMI socket. MPI process died?
+Connection to c456-004 closed by remote host.
+Connection to c456-003 closed by remote host.
+Connection to c456-002 closed by remote host.
