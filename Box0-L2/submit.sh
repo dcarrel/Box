@@ -3,7 +3,7 @@
 #SBATCH -o Box0-L1.out
 #SBATCH -e Box0-L1.err
 #SBATCH -N 4
-#SBATCH -n 4
+#SBATCH -n 48
 #SBATCH -p development
 #SBATCH -t 02:00:00
 #SBATCH --mail-user=carrel@ucsb.edu
