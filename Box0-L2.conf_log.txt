@@ -1,233 +1,229 @@
-15:28:06 | info    | Opening log file 'Box0-L2.conf_log.txt'.
-15:28:06 | info    | Running music!, version 1.53
-15:28:06 | info    | Log is for run started Mon Jul  5 15:28:06 2021 
-15:28:06 | info    | Code was compiled using FFTW version 3.x
-15:28:06 | info    | Code was compiled for multi-threaded FFTW
-15:28:06 | info    | Running with a maximum of 28 OpenMP threads
-15:28:06 | info    | Code was compiled for double precision.
-15:28:06 | info    | Using k-space sampled transfer functions...
-15:28:06 | info    | Selecting transfer function plug-in  : eisenstein
-15:28:06 | info    | Selecting region generator plug-in  : convex_hull
-15:28:06 | info    | region point file appears to contain 3 columns
-15:28:06 | info    | unapplying shift of previous zoom region to region particles : 	 [-9,-49,23] = (-0.070312,-0.382812,0.179688)
-15:28:06 | info    | Region center from convex hull centroid determined at 	 (0.585356,0.878544,0.312353)
-15:28:06 | info    | Selecting random number generator plug-in  : MUSIC
-15:28:06 | info    | refinement region is 'convex_hull', w/ bounding box         left = [0.499922,0.815051,0.272507]        right = [0.655231,0.952000,0.357475]
-15:28:06 | info    | Grid structure for Poisson solver:
-15:28:06 | info    |    Domain shifted by      (   -9,  -49,   23)
-15:28:06 | info    |    Level   7 :   offset = (    0,    0,    0)
-15:28:06 | info    |                    size = (  128,  128,  128)
-15:28:06 | info    |    Level   8 :   offset = (   52,   51,   50)
-15:28:06 | info    |                    size = (   54,   54,   54)
-15:28:06 | info    |    Level   9 :   offset = (    4,    4,    4)
-15:28:06 | info    |                    size = (   88,   88,   88)
-15:28:06 | info    | Grid structure for density convolution:
-15:28:06 | info    |    Domain shifted by      (   -9,  -49,   23)
-15:28:06 | info    |    Level   7 :   offset = (    0,    0,    0)
-15:28:06 | info    |                    size = (  128,  128,  128)
-15:28:06 | info    |    Level   8 :   offset = (   51,   50,   49)
-15:28:06 | info    |                    size = (   60,   60,   60)
-15:28:06 | info    |    Level   9 :   offset = (    5,    5,    5)
-15:28:06 | info    |                    size = (   92,   92,   92)
-15:28:06 | info    | Computing white noise...
-15:28:06 | info    | Found 0 density constraint(s) to be obeyed.
-15:28:06 | info    | Generating random numbers (2) with seed 60601
-15:28:06 | info    | Generating random numbers w/ sample cube size of 32
-15:28:06 | info    | Storing white noise field in file 'wnoise_0007.bin'...
-15:28:06 | info    | Generating random numbers w/ sample cube size of 32
-15:28:06 | info    | Generating a constrained random number set with seed 571829     using coarse mode replacement...
-15:28:06 | info    | Storing white noise field in file 'wnoise_0008.bin'...
-15:28:06 | info    | Generating random numbers w/ sample cube size of 32
-15:28:06 | info    | Generating a constrained random number set with seed 91557     using coarse mode replacement...
-15:28:07 | info    | Storing white noise field in file 'wnoise_0009.bin'...
-15:28:09 | info    | Entering 2LPT branch
-15:28:09 | info    | Computing velocities...
-15:28:09 | info    | Using k-space transfer function kernel.
-15:28:09 | info    | Performing noise convolution on level   7
-15:28:09 | info    | Loading white noise from file 'wnoise_0007.bin'...
-15:28:09 | info    | Performing kernel convolution on (  128,  128,  128) grid
-15:28:09 | info    | Performing forward FFT...
-15:28:09 | info    | Performing backward FFT...
-15:28:09 | info    | Performing noise convolution on level   8...
-15:28:09 | info    | Allocating refinement patch
-15:28:09 | info    |    offset=(   51,   50,   49)
-15:28:09 | info    |    size  =(   60,   60,   60)
-15:28:09 | info    | Loading white noise from file 'wnoise_0008.bin'...
-15:28:10 | info    | Performing kernel convolution on (  120,  120,  120) grid
-15:28:10 | info    | Performing forward FFT...
-15:28:10 | info    | Performing backward FFT...
-15:28:10 | info    | FFT interpolate: offset=36,35,34 size=120,120,120
-15:28:10 | info    | Performing noise convolution on level   9...
-15:28:10 | info    | Allocating refinement patch
-15:28:10 | info    |    offset=(    5,    5,    5)
-15:28:10 | info    |    size  =(   92,   92,   92)
-15:28:10 | info    | Loading white noise from file 'wnoise_0009.bin'...
-15:28:10 | info    | Performing kernel convolution on (  184,  184,  184) grid
-15:28:10 | info    | Performing forward FFT...
-15:28:10 | info    | Performing backward FFT...
-15:28:10 | info    | FFT interpolate: offset=12,12,12 size=184,184,184
-15:28:10 | info    | Finished computing the density field in 1.958053s
-15:28:11 | info    | Grid mean density is 3.06321e-322. Correcting...
-15:28:11 | info    | Global density extrema: 
-15:28:11 | info    |   minimum: delta=-0.605465 at (0.199219,0.082031,0.472656) (level=7)
-15:28:11 | info    |        shifted back at (0.269531,0.464844,0.292969)
-15:28:11 | info    |   maximum: delta=0.753499 at (0.510742,0.522461,0.495117) (level=9)
-15:28:11 | info    |        shifted back at (0.581055,0.905273,0.315430)
-15:28:11 | info    | Density extrema on finest level: 
-15:28:11 | info    |   minimum: delta=-0.573482 at (0.592773,0.479492,0.571289)
-15:28:11 | info    |        shifted back at (0.663086,0.862305,0.391602)
-15:28:11 | info    |   maximum: delta=0.753499 at (0.510742,0.522461,0.495117)
-15:28:11 | info    |        shifted back at (0.581055,0.905273,0.315430)
-15:28:11 | info    | Initializing multi-grid Poisson solver...
-15:28:11 | info    | Selected Gauss-Seidel multigrid smoother
-15:28:11 | info    | Running multigrid solver with 6th order Laplacian..
-15:28:11 | info    | Performing multi-grid V-cycle...
-15:28:11 | debug   | [mg]      level   7,  residual 4.98602e-08,  rel. error 0.0077135
-15:28:11 | debug   | [mg]      level   8,  residual 1.93986e-08,  rel. error 0.000413315
-15:28:11 | debug   | [mg]      level   9,  residual 9.90663e-09,  rel. error 0.00014067
-15:28:11 | info    | Performing multi-grid V-cycle...
-15:28:12 | debug   | [mg]      level   7,  residual 5.29692e-09,  rel. error 0.000292674
-15:28:12 | debug   | [mg]      level   8,  residual 2.9833e-09,  rel. error 4.93708e-05
-15:28:12 | debug   | [mg]      level   9,  residual 1.70391e-09,  rel. error 1.60018e-05
-15:28:12 | info    | Performing multi-grid V-cycle...
-15:28:12 | debug   | [mg]      level   7,  residual 2.03244e-10,  rel. error 2.95875e-05
-15:28:12 | debug   | [mg]      level   8,  residual 4.28429e-10,  rel. error 4.41803e-06
-15:28:12 | debug   | [mg]      level   9,  residual 1.32807e-10,  rel. error 1.55522e-06
-15:28:12 | info    | Performing multi-grid V-cycle...
-15:28:13 | debug   | [mg]      level   7,  residual 3.36296e-11,  rel. error 2.9964e-06
-15:28:13 | debug   | [mg]      level   8,  residual 5.01922e-11,  rel. error 4.16603e-07
-15:28:13 | debug   | [mg]      level   9,  residual 1.09765e-11,  rel. error 1.61002e-07
-15:28:13 | info    | Poisson solver converged to max. error of 2.9964e-06 in 4 steps.
-15:28:13 | info    | Computing 2LPT term....
-15:28:13 | info    | Solving 2LPT Poisson equation
-15:28:13 | info    | Initializing multi-grid Poisson solver...
-15:28:13 | info    | Selected Gauss-Seidel multigrid smoother
-15:28:13 | info    | Running multigrid solver with 6th order Laplacian..
-15:28:13 | info    | Performing multi-grid V-cycle...
-15:28:14 | debug   | [mg]      level   7,  residual 1.29763e-09,  rel. error 0.0169583
-15:28:14 | debug   | [mg]      level   8,  residual 6.5296e-10,  rel. error 0.0170617
-15:28:14 | debug   | [mg]      level   9,  residual 5.00579e-10,  rel. error 0.00592668
-15:28:14 | info    | Performing multi-grid V-cycle...
-15:28:14 | debug   | [mg]      level   7,  residual 5.63216e-11,  rel. error 0.000787398
-15:28:14 | debug   | [mg]      level   8,  residual 9.9755e-11,  rel. error 0.00145305
-15:28:14 | debug   | [mg]      level   9,  residual 6.62937e-11,  rel. error 0.0008144
-15:28:14 | info    | Performing multi-grid V-cycle...
-15:28:15 | debug   | [mg]      level   7,  residual 6.43269e-12,  rel. error 8.1161e-05
-15:28:15 | debug   | [mg]      level   8,  residual 1.20542e-11,  rel. error 0.000183816
-15:28:15 | debug   | [mg]      level   9,  residual 3.92884e-12,  rel. error 9.50887e-05
-15:28:15 | info    | Performing multi-grid V-cycle...
-15:28:16 | debug   | [mg]      level   7,  residual 9.38646e-13,  rel. error 5.43678e-06
-15:28:16 | debug   | [mg]      level   8,  residual 7.16184e-13,  rel. error 1.25424e-05
-15:28:16 | debug   | [mg]      level   9,  residual 8.13769e-13,  rel. error 7.36828e-06
-15:28:16 | info    | Performing multi-grid V-cycle...
-15:28:17 | debug   | [mg]      level   7,  residual 6.8443e-14,  rel. error 7.14767e-07
-15:28:17 | debug   | [mg]      level   8,  residual 8.12498e-14,  rel. error 1.17394e-06
-15:28:17 | debug   | [mg]      level   9,  residual 4.83174e-14,  rel. error 1.19265e-06
-15:28:17 | info    | Poisson solver converged to max. error of 1.19265e-06 in 5 steps.
-15:28:18 | info    | Entering hybrid Poisson solver...
-15:28:18 | info    | Copying hybrid correction factor...
-15:28:18 | info    | Done with hybrid Poisson solve.
-15:28:18 | info    | Computing a 6th order finite difference gradient...
-15:28:18 | info    | Done computing a 6th order finite difference gradient.
-15:28:18 | info    | Writing CDM velocities
-15:28:18 | info    | Entering hybrid Poisson solver...
-15:28:18 | info    | Copying hybrid correction factor...
-15:28:18 | info    | Done with hybrid Poisson solve.
-15:28:18 | info    | Computing a 6th order finite difference gradient...
-15:28:18 | info    | Done computing a 6th order finite difference gradient.
-15:28:18 | info    | Writing CDM velocities
-15:28:18 | info    | Entering hybrid Poisson solver...
-15:28:18 | info    | Copying hybrid correction factor...
-15:28:18 | info    | Done with hybrid Poisson solve.
-15:28:18 | info    | Computing a 6th order finite difference gradient...
-15:28:18 | info    | Done computing a 6th order finite difference gradient.
-15:28:18 | info    | Writing CDM velocities
-15:28:18 | info    | Computing dark matter displacements...
-15:28:18 | info    | Entering hybrid Poisson solver...
-15:28:19 | info    | Copying hybrid correction factor...
-15:28:19 | info    | Done with hybrid Poisson solve.
-15:28:19 | info    | Computing a 6th order finite difference gradient...
-15:28:19 | info    | Done computing a 6th order finite difference gradient.
-15:28:19 | info    | max. x-displacement of HR particles is -4.149954 [mean dx]
-15:28:19 | info    | Writing CDM displacements
-15:28:19 | info    | Entering hybrid Poisson solver...
-15:28:19 | info    | Copying hybrid correction factor...
-15:28:19 | info    | Done with hybrid Poisson solve.
-15:28:19 | info    | Computing a 6th order finite difference gradient...
-15:28:19 | info    | Done computing a 6th order finite difference gradient.
-15:28:19 | info    | max. y-displacement of HR particles is 4.733165 [mean dx]
-15:28:19 | info    | Writing CDM displacements
-15:28:19 | info    | Entering hybrid Poisson solver...
-15:28:19 | info    | Copying hybrid correction factor...
-15:28:20 | info    | Done with hybrid Poisson solve.
-15:28:20 | info    | Computing a 6th order finite difference gradient...
-15:28:20 | info    | Done computing a 6th order finite difference gradient.
-15:28:20 | info    | max. z-displacement of HR particles is -2.219249 [mean dx]
-15:28:20 | info    | Writing CDM displacements
-15:28:20 | info    | Wrote output file 'Box0-L2'.
-15:28:20 | info    | Run finished succesfully on Mon Jul  5 15:28:20 2021 
-15:28:20 | info    | List of all configuration options:
-15:28:20 | info    |               cosmology/H0 = 67.4
-15:28:20 | info    |          cosmology/Omega_L = 0.685
-15:28:20 | info    |          cosmology/Omega_b = 0.0493
-15:28:20 | info    |          cosmology/Omega_m = 0.315
-15:28:20 | info    |            cosmology/dplus = 0.01269336898
-15:28:20 | info    |            cosmology/nspec = 0.965
-15:28:20 | info    |            cosmology/pnorm = 1.88660112595
-15:28:20 | info    |          cosmology/sigma_8 = 0.811
-15:28:20 | info    |         cosmology/transfer = eisenstein
-15:28:20 | info    |            cosmology/vfact = 561.248552588
-15:28:20 | info    |               cosmology/w0 = -1.0
-15:28:20 | info    |               cosmology/wa = 0.0
-15:28:20 | info    |            output/filename = Box0-L2
-15:28:20 | info    |              output/format = enzo
-15:28:20 | info    |           poisson/accuracy = 1e-5
-15:28:20 | info    |           poisson/fft_fine = yes
-15:28:20 | info    |         poisson/grad_order = 6
-15:28:20 | info    |      poisson/laplace_order = 6
-15:28:20 | info    |        poisson/post_smooth = 3
-15:28:20 | info    |         poisson/pre_smooth = 3
-15:28:20 | info    |           poisson/smoother = gs
-15:28:20 | info    |            random/seed[10] = 400860
-15:28:20 | info    |             random/seed[7] = 060601
-15:28:20 | info    |             random/seed[8] = 571829
-15:28:20 | info    |             random/seed[9] = 091557
-15:28:20 | info    |            setup/align_top = yes
-15:28:20 | info    |              setup/baryons = no
-15:28:20 | info    |            setup/boxlength = 1.0
-15:28:20 | info    |   setup/force_equal_extent = yes
-15:28:20 | info    |            setup/kspace_TF = yes
-15:28:20 | info    |             setup/levelmax = 9
-15:28:20 | info    |             setup/levelmin = 7
-15:28:20 | info    |          setup/levelmin_TF = 7
-15:28:20 | info    |          setup/offset(7,0) = 0
-15:28:20 | info    |          setup/offset(7,1) = 0
-15:28:20 | info    |          setup/offset(7,2) = 0
-15:28:20 | info    |          setup/offset(8,0) = 52
-15:28:20 | info    |          setup/offset(8,1) = 51
-15:28:20 | info    |          setup/offset(8,2) = 50
-15:28:20 | info    |          setup/offset(9,0) = 4
-15:28:20 | info    |          setup/offset(9,1) = 4
-15:28:20 | info    |          setup/offset(9,2) = 4
-15:28:20 | info    |              setup/overlap = 2
-15:28:20 | info    |              setup/padding = 4
-15:28:20 | info    |          setup/periodic_TF = yes
-15:28:20 | info    |               setup/region = convex_hull
-15:28:20 | info    |    setup/region_point_file = initial_particle_positions-0-data0000.dat
-15:28:20 | info    |   setup/region_point_levelmin = 7
-15:28:20 | info    |   setup/region_point_shift = -9, -49, 23
-15:28:20 | info    |              setup/shift_x = -9
-15:28:20 | info    |              setup/shift_y = -49
-15:28:20 | info    |              setup/shift_z = 23
-15:28:20 | info    |            setup/size(7,0) = 128
-15:28:20 | info    |            setup/size(7,1) = 128
-15:28:20 | info    |            setup/size(7,2) = 128
-15:28:20 | info    |            setup/size(8,0) = 54
-15:28:20 | info    |            setup/size(8,1) = 54
-15:28:20 | info    |            setup/size(8,2) = 54
-15:28:20 | info    |            setup/size(9,0) = 88
-15:28:20 | info    |            setup/size(9,1) = 88
-15:28:20 | info    |            setup/size(9,2) = 88
-15:28:20 | info    |             setup/use_2LPT = yes
-15:28:20 | info    |              setup/use_LLA = no
-15:28:20 | info    |               setup/zstart = 99
+22:06:09 | info    | Opening log file 'Box0-L2.conf_log.txt'.
+22:06:09 | info    | Running music!, version 1.53
+22:06:09 | info    | Log is for run started Mon Jul  5 22:06:09 2021 
+22:06:09 | info    | Code was compiled using FFTW version 3.x
+22:06:09 | info    | Code was compiled for multi-threaded FFTW
+22:06:09 | info    | Running with a maximum of 28 OpenMP threads
+22:06:09 | info    | Code was compiled for double precision.
+22:06:09 | info    | Using k-space sampled transfer functions...
+22:06:09 | info    | Selecting transfer function plug-in  : eisenstein
+22:06:09 | info    | Selecting region generator plug-in  : convex_hull
+22:06:09 | info    | region point file appears to contain 3 columns
+22:06:09 | info    | unapplying shift of previous zoom region to region particles : 	 [54,56,-18] = (0.421875,0.437500,-0.140625)
+22:06:10 | info    | Region center from convex hull centroid determined at 	 (0.074966,0.073633,0.637315)
+22:06:10 | info    | Selecting random number generator plug-in  : MUSIC
+22:06:10 | info    | refinement region is 'convex_hull', w/ bounding box         left = [0.023236,-0.002096,0.581194]        right = [0.129221,0.131245,0.701038]
+22:06:10 | info    | Grid structure for Poisson solver:
+22:06:10 | info    |    Domain shifted by      (   54,   55,  -18)
+22:06:10 | info    |    Level   7 :   offset = (    0,    0,    0)
+22:06:10 | info    |                    size = (  128,  128,  128)
+22:06:10 | info    |    Level   8 :   offset = (   53,   52,   53)
+22:06:10 | info    |                    size = (   46,   46,   46)
+22:06:10 | info    |    Level   9 :   offset = (    4,    4,    4)
+22:06:10 | info    |                    size = (   72,   72,   72)
+22:06:10 | info    | Grid structure for density convolution:
+22:06:10 | info    |    Domain shifted by      (   54,   55,  -18)
+22:06:10 | info    |    Level   7 :   offset = (    0,    0,    0)
+22:06:10 | info    |                    size = (  128,  128,  128)
+22:06:10 | info    |    Level   8 :   offset = (   52,   51,   52)
+22:06:10 | info    |                    size = (   52,   52,   52)
+22:06:10 | info    |    Level   9 :   offset = (    5,    5,    5)
+22:06:10 | info    |                    size = (   76,   76,   76)
+22:06:10 | info    | Computing white noise...
+22:06:10 | info    | Found 0 density constraint(s) to be obeyed.
+22:06:10 | info    | Generating random numbers (2) with seed 60601
+22:06:10 | info    | Generating random numbers w/ sample cube size of 32
+22:06:10 | info    | Storing white noise field in file 'wnoise_0007.bin'...
+22:06:13 | info    | Generating random numbers w/ sample cube size of 32
+22:06:13 | info    | Generating a constrained random number set with seed 571829     using coarse mode replacement...
+22:06:13 | info    | Storing white noise field in file 'wnoise_0008.bin'...
+22:06:16 | info    | Generating random numbers w/ sample cube size of 32
+22:06:16 | info    | Generating a constrained random number set with seed 91557     using coarse mode replacement...
+22:06:16 | info    | Storing white noise field in file 'wnoise_0009.bin'...
+22:06:20 | info    | Entering 2LPT branch
+22:06:20 | info    | Computing velocities...
+22:06:20 | info    | Using k-space transfer function kernel.
+22:06:20 | info    | Performing noise convolution on level   7
+22:06:20 | info    | Loading white noise from file 'wnoise_0007.bin'...
+22:06:24 | info    | Performing kernel convolution on (  128,  128,  128) grid
+22:06:24 | info    | Performing forward FFT...
+22:06:24 | info    | Performing backward FFT...
+22:06:24 | info    | Performing noise convolution on level   8...
+22:06:24 | info    | Allocating refinement patch
+22:06:24 | info    |    offset=(   52,   51,   52)
+22:06:24 | info    |    size  =(   52,   52,   52)
+22:06:24 | info    | Loading white noise from file 'wnoise_0008.bin'...
+22:06:26 | info    | Performing kernel convolution on (  104,  104,  104) grid
+22:06:26 | info    | Performing forward FFT...
+22:06:26 | info    | Performing backward FFT...
+22:06:26 | info    | FFT interpolate: offset=39,38,39 size=104,104,104
+22:06:27 | info    | Performing noise convolution on level   9...
+22:06:27 | info    | Allocating refinement patch
+22:06:27 | info    |    offset=(    5,    5,    5)
+22:06:27 | info    |    size  =(   76,   76,   76)
+22:06:27 | info    | Loading white noise from file 'wnoise_0009.bin'...
+22:06:31 | info    | Performing kernel convolution on (  152,  152,  152) grid
+22:06:31 | info    | Performing forward FFT...
+22:06:31 | info    | Performing backward FFT...
+22:06:31 | info    | FFT interpolate: offset=12,12,12 size=152,152,152
+22:06:31 | info    | Finished computing the density field in 10.601705s
+22:06:31 | info    | Grid mean density is 3.06321e-322. Correcting...
+22:06:32 | info    | Global density extrema: 
+22:06:32 | info    |   minimum: delta=-0.605464 at (0.691406,0.894531,0.152344) (level=7)
+22:06:32 | info    |        shifted back at (0.269531,0.464844,0.292969)
+22:06:32 | info    |   maximum: delta=0.811545 at (0.524414,0.522461,0.508789) (level=9)
+22:06:32 | info    |        shifted back at (0.102539,0.092773,0.649414)
+22:06:32 | info    | Density extrema on finest level: 
+22:06:32 | info    |   minimum: delta=-0.578011 at (0.432617,0.438477,0.432617)
+22:06:32 | info    |        shifted back at (0.010742,0.008789,0.573242)
+22:06:32 | info    |   maximum: delta=0.811545 at (0.524414,0.522461,0.508789)
+22:06:32 | info    |        shifted back at (0.102539,0.092773,0.649414)
+22:06:32 | info    | Initializing multi-grid Poisson solver...
+22:06:32 | info    | Selected Gauss-Seidel multigrid smoother
+22:06:32 | info    | Running multigrid solver with 6th order Laplacian..
+22:06:32 | info    | Performing multi-grid V-cycle...
+22:06:37 | debug   | [mg]      level   7,  residual 6.11137e-08,  rel. error 0.00692195
+22:06:37 | debug   | [mg]      level   8,  residual 9.94193e-08,  rel. error 0.000386087
+22:06:37 | debug   | [mg]      level   9,  residual 3.58703e-08,  rel. error 0.000123891
+22:06:37 | info    | Performing multi-grid V-cycle...
+22:06:42 | debug   | [mg]      level   7,  residual 6.57842e-09,  rel. error 0.000366651
+22:06:42 | debug   | [mg]      level   8,  residual 1.19608e-08,  rel. error 4.53281e-05
+22:06:42 | debug   | [mg]      level   9,  residual 6.70146e-10,  rel. error 1.3925e-05
+22:06:42 | info    | Performing multi-grid V-cycle...
+22:06:47 | debug   | [mg]      level   7,  residual 6.27037e-10,  rel. error 8.36538e-05
+22:06:47 | debug   | [mg]      level   8,  residual 1.05608e-09,  rel. error 4.13224e-06
+22:06:47 | debug   | [mg]      level   9,  residual 2.86953e-10,  rel. error 1.31447e-06
+22:06:47 | info    | Performing multi-grid V-cycle...
+22:06:52 | debug   | [mg]      level   7,  residual 3.62384e-11,  rel. error 3.49905e-06
+22:06:52 | debug   | [mg]      level   8,  residual 1.89232e-10,  rel. error 3.84325e-07
+22:06:52 | debug   | [mg]      level   9,  residual 4.50914e-11,  rel. error 1.29858e-07
+22:06:52 | info    | Poisson solver converged to max. error of 3.49905e-06 in 4 steps.
+22:06:52 | info    | Computing 2LPT term....
+22:06:52 | info    | Solving 2LPT Poisson equation
+22:06:52 | info    | Initializing multi-grid Poisson solver...
+22:06:52 | info    | Selected Gauss-Seidel multigrid smoother
+22:06:52 | info    | Running multigrid solver with 6th order Laplacian..
+22:06:52 | info    | Performing multi-grid V-cycle...
+22:06:57 | debug   | [mg]      level   7,  residual 9.5504e-10,  rel. error 0.0168514
+22:06:57 | debug   | [mg]      level   8,  residual 2.15736e-09,  rel. error 0.0144985
+22:06:57 | debug   | [mg]      level   9,  residual 7.43832e-10,  rel. error 0.00907423
+22:06:57 | info    | Performing multi-grid V-cycle...
+22:07:02 | debug   | [mg]      level   7,  residual 8.29184e-11,  rel. error 0.00128172
+22:07:02 | debug   | [mg]      level   8,  residual 2.13797e-10,  rel. error 0.00160047
+22:07:03 | debug   | [mg]      level   9,  residual 4.81469e-11,  rel. error 0.00142144
+22:07:03 | info    | Performing multi-grid V-cycle...
+22:07:08 | debug   | [mg]      level   7,  residual 5.96502e-12,  rel. error 7.06579e-05
+22:07:08 | debug   | [mg]      level   8,  residual 1.57948e-11,  rel. error 9.53055e-05
+22:07:08 | debug   | [mg]      level   9,  residual 1.19303e-11,  rel. error 0.000118151
+22:07:08 | info    | Performing multi-grid V-cycle...
+22:07:13 | debug   | [mg]      level   7,  residual 3.22944e-13,  rel. error 6.07626e-06
+22:07:13 | debug   | [mg]      level   8,  residual 2.06474e-12,  rel. error 9.1902e-06
+22:07:13 | debug   | [mg]      level   9,  residual 1.00752e-12,  rel. error 9.23053e-06
+22:07:13 | info    | Poisson solver converged to max. error of 9.23053e-06 in 4 steps.
+22:07:13 | info    | Entering hybrid Poisson solver...
+22:07:13 | info    | Copying hybrid correction factor...
+22:07:13 | info    | Done with hybrid Poisson solve.
+22:07:13 | info    | Computing a 6th order finite difference gradient...
+22:07:13 | info    | Done computing a 6th order finite difference gradient.
+22:07:13 | info    | Writing CDM velocities
+22:07:14 | info    | Entering hybrid Poisson solver...
+22:07:14 | info    | Copying hybrid correction factor...
+22:07:14 | info    | Done with hybrid Poisson solve.
+22:07:14 | info    | Computing a 6th order finite difference gradient...
+22:07:14 | info    | Done computing a 6th order finite difference gradient.
+22:07:14 | info    | Writing CDM velocities
+22:07:14 | info    | Entering hybrid Poisson solver...
+22:07:14 | info    | Copying hybrid correction factor...
+22:07:14 | info    | Done with hybrid Poisson solve.
+22:07:14 | info    | Computing a 6th order finite difference gradient...
+22:07:14 | info    | Done computing a 6th order finite difference gradient.
+22:07:15 | info    | Writing CDM velocities
+22:07:15 | info    | Computing dark matter displacements...
+22:07:15 | info    | Entering hybrid Poisson solver...
+22:07:15 | info    | Copying hybrid correction factor...
+22:07:15 | info    | Done with hybrid Poisson solve.
+22:07:15 | info    | Computing a 6th order finite difference gradient...
+22:07:15 | info    | Done computing a 6th order finite difference gradient.
+22:07:15 | info    | max. x-displacement of HR particles is -2.991657 [mean dx]
+22:07:15 | info    | Writing CDM displacements
+22:07:15 | info    | Entering hybrid Poisson solver...
+22:07:16 | info    | Copying hybrid correction factor...
+22:07:16 | info    | Done with hybrid Poisson solve.
+22:07:16 | info    | Computing a 6th order finite difference gradient...
+22:07:16 | info    | Done computing a 6th order finite difference gradient.
+22:07:16 | info    | max. y-displacement of HR particles is -4.252936 [mean dx]
+22:07:16 | info    | Writing CDM displacements
+22:07:16 | info    | Entering hybrid Poisson solver...
+22:07:16 | info    | Copying hybrid correction factor...
+22:07:16 | info    | Done with hybrid Poisson solve.
+22:07:16 | info    | Computing a 6th order finite difference gradient...
+22:07:16 | info    | Done computing a 6th order finite difference gradient.
+22:07:16 | info    | max. z-displacement of HR particles is 2.875922 [mean dx]
+22:07:17 | info    | Writing CDM displacements
+22:07:17 | info    | Wrote output file 'Box0-L2'.
+22:07:17 | info    | Run finished succesfully on Mon Jul  5 22:07:17 2021 
+22:07:17 | info    | List of all configuration options:
+22:07:17 | info    |               cosmology/H0 = 67.4
+22:07:17 | info    |          cosmology/Omega_L = 0.685
+22:07:17 | info    |          cosmology/Omega_b = 0.0493
+22:07:17 | info    |          cosmology/Omega_m = 0.315
+22:07:17 | info    |            cosmology/dplus = 0.01269336898
+22:07:17 | info    |            cosmology/nspec = 0.965
+22:07:17 | info    |            cosmology/pnorm = 1.88660112595
+22:07:17 | info    |          cosmology/sigma_8 = 0.811
+22:07:17 | info    |         cosmology/transfer = eisenstein
+22:07:17 | info    |            cosmology/vfact = 561.248552588
+22:07:17 | info    |               cosmology/w0 = -1.0
+22:07:17 | info    |               cosmology/wa = 0.0
+22:07:17 | info    |            output/filename = Box0-L2
+22:07:17 | info    |              output/format = enzo
+22:07:17 | info    |           poisson/accuracy = 1e-5
+22:07:17 | info    |           poisson/fft_fine = yes
+22:07:17 | info    |         poisson/grad_order = 6
+22:07:17 | info    |      poisson/laplace_order = 6
+22:07:17 | info    |        poisson/post_smooth = 3
+22:07:17 | info    |         poisson/pre_smooth = 3
+22:07:17 | info    |           poisson/smoother = gs
+22:07:17 | info    |            random/seed[10] = 400860
+22:07:17 | info    |             random/seed[7] = 060601
+22:07:17 | info    |             random/seed[8] = 571829
+22:07:17 | info    |             random/seed[9] = 091557
+22:07:17 | info    |            setup/align_top = yes
+22:07:17 | info    |              setup/baryons = no
+22:07:17 | info    |            setup/boxlength = 1.0
+22:07:17 | info    |   setup/force_equal_extent = yes
+22:07:17 | info    |            setup/kspace_TF = yes
+22:07:17 | info    |             setup/levelmax = 9
+22:07:17 | info    |             setup/levelmin = 7
+22:07:17 | info    |          setup/levelmin_TF = 7
+22:07:17 | info    |          setup/offset(7,0) = 0
+22:07:17 | info    |          setup/offset(7,1) = 0
+22:07:17 | info    |          setup/offset(7,2) = 0
+22:07:17 | info    |          setup/offset(8,0) = 53
+22:07:17 | info    |          setup/offset(8,1) = 52
+22:07:17 | info    |          setup/offset(8,2) = 53
+22:07:17 | info    |          setup/offset(9,0) = 4
+22:07:17 | info    |          setup/offset(9,1) = 4
+22:07:17 | info    |          setup/offset(9,2) = 4
+22:07:17 | info    |              setup/overlap = 2
+22:07:17 | info    |              setup/padding = 4
+22:07:17 | info    |          setup/periodic_TF = yes
+22:07:17 | info    |               setup/region = convex_hull
+22:07:17 | info    |    setup/region_point_file = initial_particle_positions-0-data0000.dat
+22:07:17 | info    |   setup/region_point_levelmin = 7
+22:07:17 | info    |   setup/region_point_shift = 54, 56, -18
+22:07:17 | info    |              setup/shift_x = 54
+22:07:17 | info    |              setup/shift_y = 55
+22:07:17 | info    |              setup/shift_z = -18
+22:07:17 | info    |            setup/size(7,0) = 128
+22:07:17 | info    |            setup/size(7,1) = 128
+22:07:17 | info    |            setup/size(7,2) = 128
+22:07:17 | info    |            setup/size(8,0) = 46
+22:07:17 | info    |            setup/size(8,1) = 46
+22:07:17 | info    |            setup/size(8,2) = 46
+22:07:17 | info    |            setup/size(9,0) = 72
+22:07:17 | info    |            setup/size(9,1) = 72
+22:07:17 | info    |            setup/size(9,2) = 72
+22:07:17 | info    |             setup/use_2LPT = yes
+22:07:17 | info    |              setup/use_LLA = no
+22:07:17 | info    |               setup/zstart = 99
